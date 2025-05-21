@@ -291,24 +291,30 @@ Contacto adicional：[LinkedIn](https://www.linkedin.com/in/ali-ivan-meres-varga
 
 </div>
 
-## Importancia de la gestión de costos en proyectos mineros
+## ¿Por qué es importante gestionar los costos?
+
+<style scoped>
+section {
+  row-gap: 20px; 
+}
+</style>
 
 <!-- _class: fixedtitleA -->
 
 <div class="div">
 
-#### ¿Por qué es importante gestionar los costos?
-
-1. Rentabilidad y Viabilidad Financiera. 
-La minería requiere grandes inversiones (exploración, equipos, mano de obra, permisos). Controlar costos asegura ganancias, incluso con fluctuaciones en los precios de los minerales.
-1. Competitividad en el Mercado
+- **Rentabilidad y Viabilidad Financiera.** 
+La minería requiere *grandes sumas de dinero* (exploración, equipos, mano de obra, permisos). Controlar costos asegura ganancias, incluso con fluctuaciones en los precios de los minerales.
+- **Competitividad en el Mercado**
 Costos bajos permiten competir mejor, especialmente cuando los precios globales caen.
-1. Optimización de Recursos
-Reduce desperdicios (materiales, energía, tiempo) y maximiza la eficiencia operativa.
-1. Reducción de Riesgos
-Evita sobrecostos, retrasos o cierres anticipados de minas.
-1. Confianza de Inversores
+- **Optimización de Recursos**
+Reduce desperdicios (insumos, materiales, energía, tiempo) y maximiza la eficiencia operativa.
+- **Reducción de Riesgos**
+Evita sobrecostos durante la operación. Así también, retrasos o cierres anticipados de minas.
+- **Confianza de Inversores**
 Atrae financiamiento al demostrar eficiencia financiera.
+- **Permite diseñar planes estratégicos robustos**
+Ante los diversos escenarios que se enfrenta la minería, el control de costos es clave.
 
 </div>
 
@@ -316,85 +322,120 @@ Atrae financiamiento al demostrar eficiencia financiera.
 
 <!-- _class: fixedtitleA -->
 
+<style scoped>
+section {
+  row-gap: 20px; 
+}
+</style>
+
 <div class="div">
 
-- Objetivo Único: Maximizar el Valor para el Accionista (NPV)
-Muchas empresas usan múltiples proxies de valor (producción, seguridad, reservas), lo que puede generar conflictos.
-Se propone usar Valor Actual Neto (NPV) como único criterio global para evaluar decisiones de costos y capital.
+- **Objetivo Único**: Maximizar el Valor para el Accionista (NPV)
 
-- Priorización de Decisiones de Capital sobre Operativas
-En general, las decisiones de gasto de capital (CapEx) tienen mucho más impacto que los costos operativos (OpEx).
-Se deben priorizar aquellas que afectan directamente al valor del proyecto.
+> Muchas veces se apunta a diversos objetivos. Por eso es importante identificar los escenarios donde estos objetivos aplican y se llevan a cabo
+
+![center h:350px](./img/ShareHolder_obj.png)
 
 </div>
 
 ## Puntos clave en la gestión de costos
 
-<!-- _class: fixedtitleA -->
-
-<div class="div">
-
-- Optimización de Políticas de Minado y Procesamiento
-La optimización simultánea de políticas mineras y de procesamiento es clave.
-Evitar decisiones aisladas como aumentar procesamiento sin ajustar secuencias de minado.
-
-- Iteración y Feedback Multidisciplinario
-El análisis debe ser iterativo, incluyendo feedback de múltiples áreas: minería, procesamiento, finanzas, etc.
-Se recomienda revisión independiente para validar resultados y evitar sesgos.
-
-</div>
-
-## Puntos clave en la gestión de costos
-
-<!-- _class: fixedtitleA -->
-
-<div class="div">
-
-Mejoras sin CapEx
-En algunos casos, mejoras de NPV del 5–15% se logran sin nuevas inversiones, solo optimizando políticas de producción (por ejemplo, aumento de throughput con algo menor recuperación).
-
-</div>
-
-## Puntos clave en la gestión de costos
-
-<!-- _class: fixedtitleA -->
-
-<div class="div">
-
-Para optimizar los costos sin destruir valor:
-Se debe usar NPV como único criterio guía.
-Aplicar optimización rigurosa y simultánea de políticas de minado/procesamiento.
-Incorporar un proceso de análisis iterativo y multidisciplinario.
-
-</div>
-
-
-## Herramientas para la gestión de costos
+<style scoped>
+section {
+  row-gap: 20px; 
+}
+</style>
 
 <!-- _class: cols-2 -->
 
 <div class=ldiv>
 
-##### El uso de ERPs en minería
-
-- Costo: Recursos invertidos para producir un bien (mineral).
-- Gasto: Recursos consumidos para sostener la operación, **no directamente vinculados a la producción.**
-
-##### Costo hundido (o sunk cost en inglés)
-
-- Se refiere a gastos ya incurridos que no pueden recuperarse y que, por lo tanto, **no deben influir en decisiones futuras de inversión o gestión**. 
+#### Priorización de decisiones de capital
+- En general, las decisiones de gasto de capital (CapEx) tienen mucho más impacto que los costos operativos (OpEx).
+- Se deben priorizar aquellas que afectan directamente al valor del proyecto.
+- Impacto de las cuentas por pagar y la rotación de inventarios. 
 
 </div>
 
 <div class=rdiv>
 
-| **Aspecto** | **Costo** | **Gasto** |
-|:---:|:---:|:---:|
-| Relación con la producción | Directamente vinculado a la extracción y procesamiento del mineral. | No está ligado a la producción (ej.: gastos legales, capacitación). |
-| Capitalización | Puede capitalizarse si genera un activo (ej.: construcción de una planta). | Se registra como gasto del período (no se capitaliza). |
-| Impacto en el estado de resultados | Parte del COGS (Costo de Ventas) en la cuenta de resultados. | Se registra como gasto operativo, administrativo o financiero. |
+#### Equipos multidisciplinarios 
+- Evaluar cambios considerables en el plan estratégico, por consiguiente, en la producción requiere del involucramiento de personal de operaciones, logísticas, marketing, finanzas. 
+- Si bien no es posible proporcionar todos los casos a todos, los más importantes deberían revisarse con mayor profundidad para detectar errores, lograr una mayor implicación del equipo y descubrir nuevas ideas para optimizar el valor del proyecto.
 
-</div><!-- _class: fixedtitleA -->
+</div>
+
+## Puntos clave en la gestión de costos
+<!-- _class: cols-2 -->
+
+<style scoped>
+section {
+  row-gap: 20px; 
+}
+</style>
+
+<div class=ldiv>
+
+#### Optimización de políticas de minado y procesamiento
+- Evitar decisiones aisladas como aumentar procesamiento sin ajustar secuencias de minado. **La revisión integral es vital**
+
+#### Iteración en la revisión de planes
+- La información mas fidedigna es la del personal que se encuentra en campo. Este es un input valioso para la toma de decisiones.
+Se recomienda revisión independiente para validar resultados y evitar sesgos.
+
+</div>
+
+<div class=rdiv>
+
+![center h:500px](./img/IterativeProc.png)
+
+</div>
+
+## Herramientas para la gestión de costos
+
+<style scoped>
+section {
+  row-gap: 0px; 
+}
+</style>
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+ 
+##### El uso de ERPs en minería
+
+- Un ERP permite integrar los datos correspondientes a los procesos que componen una industria, en este caso: minera. 
+- Te permite, entre otras cosas:
+  - Controlar costos
+  - Cumplimiento normativo
+  - Optimizar procesos
+  - Integraciones con IA
+  - Escalabilidad
+
+> El grado de adaptabilidad es limitado. Entonces SAP ¿amigo o enemigo?
+
+</div>
+
+## ERPs en minería
+
+<!-- _class: fixedtitleA -->
+<div class="div">
+ 
+|  | **Ventajas** | **Desventajas** |
+|:---:|:---:|:---:|
+| **SAP S/4HANA** | - Integración profunda con módulos   mineros.<br>- Escalable para operaciones globales. | - Complejidad en la   personalización.<br>- Tiempo prolongado de despliegue. |
+| **Oracle Cloud Mining** | - Solución en la nube con   actualizaciones automáticas.<br>- Reportes regulatorios preconfigurados. | - Dependencia de Internet.<br>- Menor flexibilidad para procesos específicos. |
+| **MineRP** | - Especializado en minería.<br>- Integración con GIS y modelos 3D de yacimientos. | - Menor capacidad de análisis avanzado. |
+
+</br>
+
+> El SAP sigue siendo el mas usado en la industria. Si bien genera muchos problemas, muchos vacios y la curva de aprendizaje es larga y tediosa; es la herramienta mas utilizada para dicho problema. Ahí tenemos **una oportunidad para desarrollar alternativas**. 
+
+</div>
+
+
+<!-- _class: fixedtitleA -->
 
 <div class="div">
 
