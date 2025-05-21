@@ -380,7 +380,7 @@ section {
 - Evitar decisiones aisladas como aumentar procesamiento sin ajustar secuencias de minado. **La revisión integral es vital**
 
 #### Iteración en la revisión de planes
-- La información mas fidedigna es la del personal que se encuentra en campo. Este es un input valioso para la toma de decisiones.
+- La información más fidedigna es la del personal que se encuentra en campo. Este es un input valioso para la toma de decisiones.
 Se recomienda revisión independiente para validar resultados y evitar sesgos.
 
 </div>
@@ -405,13 +405,12 @@ section {
  
 ##### El uso de ERPs en minería
 
-- Un ERP permite integrar los datos correspondientes a los procesos que componen una industria, en este caso: minera. 
-- Te permite, entre otras cosas:
+- Un ERP permite integrar los datos correspondientes a los procesos que componen una industria, en este caso: minera. Permite, entre otras cosas:
   - Controlar costos
-  - Cumplimiento normativo
+  - Cumplimiento normativo → Muchas corporaciones adoptan este estándar.
   - Optimizar procesos
   - Integraciones con IA
-  - Escalabilidad
+  - Escalabilidad → Cuanto más crece la empresa, se adapta mejor.
 
 > El grado de adaptabilidad es limitado. Entonces SAP ¿amigo o enemigo?
 
@@ -425,8 +424,8 @@ section {
 |  | **Ventajas** | **Desventajas** |
 |:---:|:---:|:---:|
 | **SAP S/4HANA** | - Integración profunda con módulos   mineros.<br>- Escalable para operaciones globales. | - Complejidad en la   personalización.<br>- Tiempo prolongado de despliegue. |
-| **Oracle Cloud Mining** | - Solución en la nube con   actualizaciones automáticas.<br>- Reportes regulatorios preconfigurados. | - Dependencia de Internet.<br>- Menor flexibilidad para procesos específicos. |
-| **MineRP** | - Especializado en minería.<br>- Integración con GIS y modelos 3D de yacimientos. | - Menor capacidad de análisis avanzado. |
+| **Oracle Cloud Mining** | - Solución en la nube con<br> actualizaciones automáticas.<br>- Reportes regulatorios preconfigurados. | - Dependencia de Internet.<br>- Menor flexibilidad para procesos<br> específicos. |
+| **MineRP** | - Especializado en minería.<br>- Integración con GIS y modelos 3D de yacimientos. | - Menor capacidad de <br> análisis financiero avanzado. |
 
 </br>
 
@@ -441,34 +440,90 @@ section {
 
 </div>
 
-## Integración con estrategia corporativa
-
-<!-- _class: fixedtitleA -->
-
-<div class="div">
-
-Cómo la gestión de costos afecta decisiones de expansión o reducción de operaciones.
-
-</div>
-
 ## Análisis de la cadena de valor en la minería
 
-<!-- _class: fixedtitleA -->
+<!-- _class: pin-3 -->
 
-<div class="div">
+<div class="tdiv">
 
-Etapas clave:
-  Extracción → Procesamiento → Logística → Comercialización.
-Cuellos de botella comunes:
-  Ineficiencias en transporte (ej.: flota subutilizada).
-Optimización tecnológica:
-  Uso de simulaciones digitales para reducir costos en plantas de beneficio.
-Outsourcing estratégico:
-  Costo-beneficio de externalizar servicios críticos (ej.: contratistas de perforación).
-Indicadores de desempeño:
-  KPIs por etapa (ej.: toneladas procesadas por hora, costos logísticos por km).
+![](./img/cadena.png)
 
 </div>
+
+<div class="limg">
+
+![](./img/MineChain2.png)
+
+</div>
+
+<div class="rimg">
+
+![](./img/MineChain3.png)
+
+</div>
+
+## Perspectiva OECD - [link](https://www.oecd.org/en/publications/the-mining-global-value-chain_2827283e-en.html)
+
+![#c h:450px](./img/MiningChain1.png)
+
+## Perspectiva McKinsey - [link](https://www.mckinsey.com/industries/metals-and-mining/our-insights/the-mine-to-market-value-chain-a-hidden-gem)
+
+![#c h:550px](./img/McKinseyCostModel.png)
+
+## Cuellos de botella en minería
+
+![#c h:450px](./img/MineBottleNeckProcess.png)
+
+## Cuellos de botella en el proceso [link](https://www.bain.com/insights/how-to-eliminate-mining-bottlenecks-for-good/)
+
+![#c](./img/BainBottleneck.png)
+
+## Estimacion de cut-off en mineria
+
+![#c](./img/CoG0.png)
+
+## Estimacion de cut-off en mineria
+
+![#c](./img/CoG1.png)
+
+## Estimacion de cut-off en mineria
+
+<!-- _class: pin-3 -->
+
+<div class="tdiv">
+
+> La obtención de un CoG robusto es, *sin lugar a dudas*, uno de los grandes objetivos del equipo de planificación. Para esto, **el enfoque multidisciplanario** ya descrito es clave en este punto. Los enfoques basados en una CoG en punto de equilibrio son muy propensos al riesgo propio del precio de metales.
+
+</div>
+
+<div class=limg>
+
+![h:350px](./img/CoG2.png)
+
+</div>
+
+<div class=rimg>
+
+![h:350px](./img/CoG3.png)
+
+</div> 
+
+---
+<!-- _class: lastpage -->
+<!-- _footer: "" -->
+
+###### Muchas gracias
+
+<div class="icons">
+
+- <i class="fa-brands fa-google"></i>
+  - ameresv@gmail.com
+- <i class="fa-brands fa-telegram"></i> 
+  - +51-956384450  
+- <i class="fa-brands fa-linkedin"></i> 
+  - Ali Meres
+
+<div>
 
 ## Estimacion de cut-off en mineria
 

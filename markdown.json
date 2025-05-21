@@ -17,7 +17,33 @@
 	],
     "description": "define fixed title slide"
   },
-
+  	"ThreePartSlide":{
+	"prefix":"tps",
+	"body": [
+		"## Title",
+		"",
+		"<!-- _class: pin-3 -->",
+		"",
+		"<div class=\"tdiv\">",
+		"",
+		"",
+		"",
+		"</div>",
+		"",
+		"<div class=\"limg\">",
+		"",
+		"",
+		"",
+		"</div>",
+		"",
+		"<div class=\"rimg\">",
+		"",
+		"",
+		"",
+		"</div>"
+	],
+	"description": "insert a three part slide"
+  },
 	"TwoColsSlide": {
 		"prefix": "tcls",
 		"body": [
