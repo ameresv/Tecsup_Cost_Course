@@ -1,0 +1,83 @@
+{
+	"Fixed title": {
+    "prefix": "fxt",
+    "body": [
+		"## Title",
+		"<!-- _class: fixedtitleA -->",
+		"<div class=\"div\">",
+		" ",
+		"</div>"
+	],
+    "description": "define fixed title slide"
+  },
+
+	"TwoColsSlide": {
+		"prefix": "tcls",
+		"body": [
+			"## Title",
+			"<!-- _class: cols-2 -->",
+			"",
+			"<div class=ldiv>",
+			"",
+			"</div>",
+			"",
+			"<div class=rdiv>",
+			"",
+			"</div>"
+		],
+		"description": "insert two columns slide"
+	},
+
+	"LastSlide" : {
+		"prefix": "lsld",
+		"body": [
+			"---",
+			"<!-- _class: lastpage -->",
+			"<!-- _footer: \"\" -->",
+			"",
+			"###### Muchas gracias",
+			"",
+			"<div class=\"icons\">",
+			"",
+			"- <i class=\"fa-brands fa-google\"></i>",
+			"  - ameresv@gmail.com",
+			"- <i class=\"fa-brands fa-telegram\"></i> ",
+			"  - +51-956384450  ",
+			"- <i class=\"fa-brands fa-linkedin\"></i> ",
+			"  - Ali Meres",
+			"",
+			"<div>"
+		],
+		"description": "insert the last slide"
+	},
+
+	"First Slide" : {
+		"prefix": "fsld",
+		"body": [
+			"<style>",
+			"  img[alt~='center'] {",
+			"    display: block;",
+			"    margin-left: auto;",
+			"    margin-right: auto;",
+			"  }",
+			"</style>",
+			"",
+			"<style scoped>",
+			"section.cover_d footer {",
+			"  font-size: 20pt;",
+			"  left: 50%;",
+			"}",
+			"</style>",
+			"",
+			"# Título de la presentación",
+			"",
+			"###### Subtítulo de presentación ",
+			"",
+			"Ing. Ali Meres ",
+			"Ingeniero de Minas UNI - CIP ",
+			"Business Analytics Technical Lead @ Astay Systems - AAQ",
+			"Contacto adicional：[LinkedIn](https://www.linkedin.com/in/ali-ivan-meres-vargas/)- ameresv@gmail.com"
+		],
+		"description": "Añade la primera slide de la presentación"
+	}
+}

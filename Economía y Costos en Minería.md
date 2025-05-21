@@ -368,6 +368,7 @@ Incorporar un proceso de análisis iterativo y multidisciplinario.
 
 </div>
 
+
 ## Herramientas para la gestión de costos
 
 <!-- _class: cols-2 -->
