@@ -291,39 +291,121 @@ Contacto adicional：[LinkedIn](https://www.linkedin.com/in/ali-ivan-meres-varga
 
 </div>
 
----
-<!-- _class: lastpage -->
-<!-- _footer: "" -->
-
-###### Muchas gracias
-
-<div class="icons">
-
-- <i class="fa-brands fa-google"></i>
-  - ameresv@gmail.com
-- <i class="fa-brands fa-telegram"></i> 
-  - +51-956384450  
-- <i class="fa-brands fa-linkedin"></i> 
-  - Ali Meres
-
-<div>
-
 ## Importancia de la gestión de costos en proyectos mineros
 
 <!-- _class: fixedtitleA -->
 
 <div class="div">
 
-Impacto financiero:
-  Relación entre costos, precio del commodity y margen operativo.
-Riesgos críticos:
-  Desviaciones de costos en fase de operación (ej.: sobrecostos en proyectos greenfield).
-Herramientas de evaluación:
-  Análisis de VAN (Valor Actual Neto) y TIR (Tasa Interna de Retorno) con variaciones de costos.
-Caso de estudio:
-  Proyecto cancelado por sobrecostos (ej.: costos de energía un 50% mayores a lo estimado).
-Integración con estrategia corporativa:
-  Cómo la gestión de costos afecta decisiones de expansión o reducción de operaciones.
+#### ¿Por qué es importante gestionar los costos?
+
+1. Rentabilidad y Viabilidad Financiera. 
+La minería requiere grandes inversiones (exploración, equipos, mano de obra, permisos). Controlar costos asegura ganancias, incluso con fluctuaciones en los precios de los minerales.
+1. Competitividad en el Mercado
+Costos bajos permiten competir mejor, especialmente cuando los precios globales caen.
+1. Optimización de Recursos
+Reduce desperdicios (materiales, energía, tiempo) y maximiza la eficiencia operativa.
+1. Reducción de Riesgos
+Evita sobrecostos, retrasos o cierres anticipados de minas.
+1. Confianza de Inversores
+Atrae financiamiento al demostrar eficiencia financiera.
+
+</div>
+
+## Puntos clave en la gestión de costos
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+
+- Objetivo Único: Maximizar el Valor para el Accionista (NPV)
+Muchas empresas usan múltiples proxies de valor (producción, seguridad, reservas), lo que puede generar conflictos.
+Se propone usar Valor Actual Neto (NPV) como único criterio global para evaluar decisiones de costos y capital.
+
+- Priorización de Decisiones de Capital sobre Operativas
+En general, las decisiones de gasto de capital (CapEx) tienen mucho más impacto que los costos operativos (OpEx).
+Se deben priorizar aquellas que afectan directamente al valor del proyecto.
+
+</div>
+
+## Puntos clave en la gestión de costos
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+
+- Optimización de Políticas de Minado y Procesamiento
+La optimización simultánea de políticas mineras y de procesamiento es clave.
+Evitar decisiones aisladas como aumentar procesamiento sin ajustar secuencias de minado.
+
+- Iteración y Feedback Multidisciplinario
+El análisis debe ser iterativo, incluyendo feedback de múltiples áreas: minería, procesamiento, finanzas, etc.
+Se recomienda revisión independiente para validar resultados y evitar sesgos.
+
+</div>
+
+## Puntos clave en la gestión de costos
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+
+Mejoras sin CapEx
+En algunos casos, mejoras de NPV del 5–15% se logran sin nuevas inversiones, solo optimizando políticas de producción (por ejemplo, aumento de throughput con algo menor recuperación).
+
+</div>
+
+## Puntos clave en la gestión de costos
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+
+Para optimizar los costos sin destruir valor:
+Se debe usar NPV como único criterio guía.
+Aplicar optimización rigurosa y simultánea de políticas de minado/procesamiento.
+Incorporar un proceso de análisis iterativo y multidisciplinario.
+
+</div>
+
+## Herramientas para la gestión de costos
+
+<!-- _class: cols-2 -->
+
+<div class=ldiv>
+
+##### El uso de ERPs en minería
+
+- Costo: Recursos invertidos para producir un bien (mineral).
+- Gasto: Recursos consumidos para sostener la operación, **no directamente vinculados a la producción.**
+
+##### Costo hundido (o sunk cost en inglés)
+
+- Se refiere a gastos ya incurridos que no pueden recuperarse y que, por lo tanto, **no deben influir en decisiones futuras de inversión o gestión**. 
+
+</div>
+
+<div class=rdiv>
+
+| **Aspecto** | **Costo** | **Gasto** |
+|:---:|:---:|:---:|
+| Relación con la producción | Directamente vinculado a la extracción y procesamiento del mineral. | No está ligado a la producción (ej.: gastos legales, capacitación). |
+| Capitalización | Puede capitalizarse si genera un activo (ej.: construcción de una planta). | Se registra como gasto del período (no se capitaliza). |
+| Impacto en el estado de resultados | Parte del COGS (Costo de Ventas) en la cuenta de resultados. | Se registra como gasto operativo, administrativo o financiero. |
+
+</div><!-- _class: fixedtitleA -->
+
+<div class="div">
+
+</div>
+
+## Integración con estrategia corporativa
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+
+Cómo la gestión de costos afecta decisiones de expansión o reducción de operaciones.
 
 </div>
 
@@ -364,6 +446,23 @@ Caso real:
   Mina que incrementó reservas en un 15% al reevaluar el cut-off con precios actualizados.
 
 </div>
+
+---
+<!-- _class: lastpage -->
+<!-- _footer: "" -->
+
+###### Muchas gracias
+
+<div class="icons">
+
+- <i class="fa-brands fa-google"></i>
+  - ameresv@gmail.com
+- <i class="fa-brands fa-telegram"></i> 
+  - +51-956384450  
+- <i class="fa-brands fa-linkedin"></i> 
+  - Ali Meres
+
+<div>
 
 ## Presupuestos de proyectos mineros 
 <!-- _class: trans -->

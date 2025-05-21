@@ -1,0 +1,7 @@
+{
+  "markdown.marp.html": "all",
+  "markdown.marp.themes": [
+    "./themes/am_blue.scss",
+    "./themes/am_template.scss",
+  ]
+}
