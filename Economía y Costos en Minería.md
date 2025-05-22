@@ -512,36 +512,79 @@ section {
 <!-- _class: lastpage -->
 <!-- _footer: "" -->
 
-###### Muchas gracias
+###### Ejemplo de aplicación de cut-off en mineria
 
-<div class="icons">
+## Presupuestos de proyectos mineros 
+<!-- _class: trans -->
+<!-- _footer: "" -->
+<!-- _paginate: "" -->
 
-- <i class="fa-brands fa-google"></i>
-  - ameresv@gmail.com
-- <i class="fa-brands fa-telegram"></i> 
-  - +51-956384450  
-- <i class="fa-brands fa-linkedin"></i> 
-  - Ali Meres
+## ¿Qué veremos en este módulo?
 
-<div>
+<!-- _class: col_ol_ci fglass toc_a -->
+<!-- _footer: "" -->
+<!-- _header: "" -->
+<!-- _paginate: "" -->
 
-## Estimacion de cut-off en mineria
+- Elaboración de presupuestos de inversión
+- Estimación de costos de exploración y desarrollo de yacimientos
+- Análisis de costos de infraestructuras mineras
+- Consideraciones financieras en la elaboración de presupuestos
+
+## Elaboración de presupuestos de inversión
+
+<style scoped>
+section {
+  row-gap: 0px; 
+}
+</style>
 
 <!-- _class: fixedtitleA -->
 
 <div class="div">
+ 
+</div>
 
-Definición y relevancia:
-  Ley mínima para que un bloque sea económicamente explotable.
-Factores determinantes:
-  Precio del metal, costos de extracción, recuperación metalúrgica.
-Impacto estratégico:
-  Cómo ajustar el cut-off en crisis (ej.: reducir ley mínima si sube el precio del oro).
-Herramientas técnicas:
-  Software especializado (Datamine, Leapfrog) para modelar escenarios.
-Caso real:
-  Mina que incrementó reservas en un 15% al reevaluar el cut-off con precios actualizados.
+## Estimación de costos de exploración y desarrollo de yacimientos
 
+<style scoped>
+section {
+  row-gap: 0px; 
+}
+</style>
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+ 
+</div>
+
+## Análisis de costos de infraestructuras mineras
+
+<style scoped>
+section {
+  row-gap: 0px; 
+}
+</style>
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+ 
+</div>
+
+## Consideraciones financieras en la elaboración de presupuestos
+
+<style scoped>
+section {
+  row-gap: 0px; 
+}
+</style>
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+ 
 </div>
 
 ---
@@ -560,23 +603,6 @@ Caso real:
   - Ali Meres
 
 <div>
-
-## Presupuestos de proyectos mineros 
-<!-- _class: trans -->
-<!-- _footer: "" -->
-<!-- _paginate: "" -->
-
-## ¿Qué veremos en este módulo?
-
-<!-- _class: col_ol_ci fglass toc_a -->
-<!-- _footer: "" -->
-<!-- _header: "" -->
-<!-- _paginate: "" -->
-
-- Elaboración de presupuestos de inversión
-- Estimación de costos de exploración y desarrollo de yacimientos
-- Análisis de costos de infraestructuras mineras
-- Consideraciones financieras en la elaboración de presupuestos
 
 ## Costos operativos en minería  
 <!-- _class: trans -->
