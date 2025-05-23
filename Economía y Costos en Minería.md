@@ -531,53 +531,136 @@ section {
 - Análisis de costos de infraestructuras mineras
 - Consideraciones financieras en la elaboración de presupuestos
 
-## Elaboración de presupuestos de inversión
+## Elaboración de presupuestos de inversión - Supuestos
 
 <style scoped>
-section {
-  row-gap: 0px; 
+section.pin-3 {
+  grid-template-rows: 7% 20% 90%; 
 }
 </style>
 
-<!-- _class: fixedtitleA -->
+<!-- _class: pin-3 -->
 
-<div class="div">
+<div class="tdiv">
+
+Es **crucial** tener en cuenta que tenemos variables que forman parte de nuestro entendimiento, algunas con cierto o ningún tipo de referencia **al momento de evaluar.**
+Esto indica la relevancia de colocar los supuestos de **manera clara y conscisa** durante todas las etapas de la evaluación para los ajustes necesarios.
+
+</div>
+
+<div class="rdiv">
+
+#####  
+
+![#c](./img/Budget1.png)
+
+</div>
+
+<div class="ldiv">
+
+##### Matriz de entendimiento
+
+![#c h:250px](./img/Budget0.png)
+
+
+</div>
+
+## Elaboración de presupuestos de inversión
+
+<!-- _class: cols-3 -->
+
+<div class="ldiv">
+
+###### Experiencia + Factor incremental
+
+![center h:450px](./img/Budget2.png)
+
+</div>
+
+<div class="mdiv">
+  
+###### Ecuaciones o Bases de datos
+![center h:450px](./img/Budget3.png)
  
+</div>
+
+<div class="rdiv">
+ 
+###### Ejemplos de Minas similares
+![center h:450px](./img/Budget4.png)
+
 </div>
 
 ## Estimación de costos de exploración y desarrollo de yacimientos
 
-<style scoped>
-section {
-  row-gap: 0px; 
-}
-</style>
+<!-- _class: cols-2 -->
 
-<!-- _class: fixedtitleA -->
+<div class=limg>
 
-<div class="div">
- 
+![center h:450px](./img/Budget5.png)
+
+</div>
+
+<div class=rimg>
+
+![center h:400px](./img/Budget6.png)
+
 </div>
 
 ## Análisis de costos de infraestructuras mineras
 
-<style scoped>
-section {
-  row-gap: 0px; 
-}
-</style>
+<!-- _class: cols-2 -->
 
-<!-- _class: fixedtitleA -->
+<div class=ldiv>
 
-<div class="div">
- 
+#### El reto de la infraestructura en Perú 
+
+- El Perú posee costos competitivos a nivel mundial en temas de energía y acceso a agua para las operaciones mineras. 
+- Estas ventajas son contrapuestas con las restricciones que obedece la pobre infraestructura para trasladar los minerales hacia zonas de embarque. 
+
+</div>
+
+<div class=rdiv>
+
+> "It is expected that Peru will only realize its full economic potential after reducing its infrastructure bottlenecks. Estimates vary, but the investment required runs into billions of dollars. In the last decade, Peru has begun to take the necessary measures to improve its underprivileged infrastructure (transport facilities, electricity, water and communications) in order to promote new investments which will contribute to the development of the productive sectors of the country.
+
+*Tomado de la Guía EY Mining Peru 2025-2026*
+
+</div>
+
+## Análisis de costos de infraestructuras mineras
+
+<!-- _class: cols-2 -->
+
+<div class=ldiv>
+
+##### Posibles soluciones al problema
+
+- Clusters Mineros del Sur
+- Desarrollo portuario de emergencia
+- Accesos a la nueva carretera central
+- Implementación de Mineroductos
+- Politicas de uso de agua desalinizada. 
+- Mejoramiento de la red eléctrica nacional.
+- ...
+- ...
+- ...
+
+</div>
+
+<div class=rdiv>
+
+Sin embargo, el mejor enfoque durante la fase de evaluación para este tema será: 
+
+![#c h:450px](./img/Budget2.png)
+
 </div>
 
 ## Consideraciones financieras en la elaboración de presupuestos
 
 <style scoped>
 section {
-  row-gap: 0px; 
+  row-gap: 40px; 
 }
 </style>
 
@@ -585,6 +668,8 @@ section {
 
 <div class="div">
  
+![#c h:450px](./img/Consideraciones1.png)
+
 </div>
 
 ---
