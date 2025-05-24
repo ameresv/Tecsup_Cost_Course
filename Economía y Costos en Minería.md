@@ -672,23 +672,6 @@ section {
 
 </div>
 
----
-<!-- _class: lastpage -->
-<!-- _footer: "" -->
-
-###### Muchas gracias
-
-<div class="icons">
-
-- <i class="fa-brands fa-google"></i>
-  - ameresv@gmail.com
-- <i class="fa-brands fa-telegram"></i> 
-  - +51-956384450  
-- <i class="fa-brands fa-linkedin"></i> 
-  - Ali Meres
-
-<div>
-
 ## Costos operativos en minería  
 <!-- _class: trans -->
 <!-- _footer: "" -->
@@ -705,6 +688,219 @@ section {
 - Costos de procesamiento de minerales: trituración, molienda, concentración
 - Costos de mantenimiento de equipos y maquinarias
 - Gestión de costos de energía y suministros
+
+## Tipos de Depósitos Minerales
+<!-- _class: fixedtitleA -->
+
+<style scoped>
+section {
+  row-gap: 20px; 
+}
+</style>
+
+<div class="div">
+
+| **Tipo de Depósito** | **Geometría** | **Resistencia y Rigidez<br>/ Depósito** | **Ejemplos** |
+|:---:|:---:|:---:|:---:|
+| Aluvión (placeres) | Tabular–plano | Pobre/pobre | Arena y grava;</br> metales y piedras preciosas (estaño) |
+| Superficie erosionada | Tabular–plano y delgado | Pobre/pobre a buena | Carbón |
+| Diseminado | Masivo | Pobre/pobre | Menas hidrotermales </br> (porfídicas y sulfuros) |
+| Veta (puede rehelarse) | Tabular–inclinado | Pobre a buena/buena | Menas hidrotermales </br> (porfídicas y sulfuros) |
+| Evaporitas | Tabular–plano–grueso | Buena/buena | Sal, fosfatos |
+| Sedimentario (estratificado) | Tabular–plano–grueso | Buena/buena | Caliza, arenisca |
+| Metamórfico | Tabular–plano–grueso | Buena/buena | Mármol, pizarra |
+| Ígneo (magnético) | Masivo | Buena/buena | Granito, basalto, diabase |
+
+</div>
+
+## Minería Subterránea - Métodos de explotación I
+
+<!-- _class: fixedtitleA -->
+
+<style scoped>
+section {
+  row-gap: 20px; 
+}
+</style>
+
+<div class="div">
+
+| **Profundidad del Depósito** | **Resistencia </br>de la Roca** | **Características <br>del Depósito** | **Método </br>de Minado** | 
+|:---:|:---:|:---:|:---:|
+| Profundo–requiere <br>minería subterránea | Roca competente <br>fuerte a moderada–apta <br>para minado sin soporte | Tabular, plano, <br>delgado, gran tamaño | Cuartos y pilares <br>(Room and Pillar) | 
+|  |  | Tabular, plano, <br>grueso, gran tamaño | Cámara y pilar <br>(Stope and Pillar) | 
+|  |  | Tabular, empinado, <br>delgado, cualquier tamaño | Escombrado por hundimiento <br>(Shrinkage Stoping) | 
+|  |  | Tabular, empinado, <br>grueso, gran tamaño | Corte por subniveles | 
+
+</div>
+
+## Minería Subterránea - Métodos de explotación II
+<!-- _class: fixedtitleA -->
+
+<style scoped>
+section {
+  row-gap: 20px; 
+}
+</style>
+
+<div class="div">
+
+| **Profundidad del Depósito** | **Resistencia <br>de la Roca** | **Características <br>del Depósito** | **Método <br>de Minería** |
+|:---:|:---:|:---:|:---:|
+| Profundo–requiere <br>minería subterránea | Roca incompetente <br>de resistencia moderada a débil <br>– requiere soporte | Forma variable, empinado, <br>delgado, cualquier tamaño, <br>roca más fuerte que relleno | Corte y relleno <br>desde arriba |
+|  |  | Forma variable, empinado, <br>delgado, cualquier tamaño, <br>roca más débil que relleno | Corte y relleno <br>desde abajo |
+|  |  | Tabular, empinado, <br>delgado, tamaño pequeño | Escombrado vertical <br>(Stull Stoping) |
+|  |  | Cualquier forma, <br>cualquier buzamiento,<br> grueso, cualquier tamaño | Corte en cuadros <br>(Square-set stoping) |
+
+</div>
+
+## Minería Subterránea - Métodos de explotación III
+
+<!-- _class: fixedtitleA -->
+
+<style scoped>
+section {
+  row-gap: 20px; 
+}
+</style>
+
+<div class="div">
+ 
+| **Profundidad del Depósito** | **Resistencia <br>de la Roca** | **Características <br>del Depósito** | **Método <br>de Minería** |
+|:---:|:---:|:---:|:---:|
+| Profundo–requiere <br>minería subterránea | Roca débil–apta para hundimiento | Tabular, plano, <br>delgado, gran tamaño | Longwall |
+|  |  | Tabular o masivo, <br>empinado, grueso, gran tamaño | Hundimiento <br>por subniveles |
+|  |  | Masivo, empinado, <br>grueso, gran tamaño | Hundimiento <br>por bloques |
+
+</div>
+
+## Minería Subterránea - Resumen 
+<!-- _class: fixedtitleA -->
+
+<style scoped>
+section {
+  row-gap: 20px; 
+}
+</style>
+
+<div class="div">
+ 
+| **Método** | **Flexibilidad/Selectividad** | **% Recuperación / <br>% Dilución** | **Productividad** |
+|:---:|:---:|:---:|:---:|
+| Cuartos y pilares | Alta/alta | 75/20 | Alta |
+| Corte y relleno | Alta/alta | 95/5 | Moderada |
+| Subnivel | Baja/baja | 80/10 | Moderada |
+| Hundimiento por subniveles | Baja/baja | 90/20 | Alta |
+| Hundimiento por bloques | Baja/baja | 90/20 | Alta |
+| Corte por subniveles | Moderada/baja | 85/15 | Alta |
+| Escombrado por hundimiento | Moderada/moderada | 80/10 | Baja |
+| Longwall | Baja/baja | 80/10 | Muy alta |
+
+</div>
+
+## Mineria Superficial
+<!-- _class: fixedtitleA -->
+
+<style scoped>
+section {
+  row-gap: 20px; 
+}
+</style>
+
+<div class="div">
+
+| **Método** | **Flexibilidad/Selectividad** | **% Recuperación / % Dilución** | **Productividad** |
+|:---:|:---:|:---:|:---:|
+| Explotación <br>en bancos | Moderada/alta | 90/5 | Muy alta |
+| Canteras de <br>roca dura | Baja/media | 85/15 | Alta |
+| Explotación <br>hidráulica | Baja/alta | 75/20 | Alta |
+| Explotación <br>por dragado | Baja/alta | 80/20 | Alta |
+| Explotación de <br>graveras y areneras | Alta/alta | 90/5 | Moderada |
+
+</div>
+
+## Métodos de Minado - Resumen General
+
+<!-- _class: fixedtitleA -->
+
+<style scoped>
+section {
+  row-gap: 20px; 
+}
+
+</style>
+<div class="div">
+
+| **Método** | **Flexibilidad/Selectividad** | **% Rec / % Dil** | **Productividad** | **Otros Factores** |
+|:---:|:---:|:---:|:---:|:---:|
+| Placeres y dragado | Bajo/alto | Alto/bajo | Moderado | Requiere agua; <br>afecta el clima |
+| Tajo abierto <br>(Open Pit) | Moderado/<br>moderado | Alto/bajo | Alta | Afecta el clima |
+| Cámara y pilar | Alto/alto | 75/15 | Alta | Bancado común |
+| Subnivel | Bajo/bajo | 75/15 | Moderado | Relleno común |
+| Escombrado <br>por hundimiento | Moderado/<br>moderado | 80/10 | Bajo | ⅔ del mineral <br>queda retenido |
+| Corte y relleno | Moderado/<br>alto | 100/0 | Bajo | Selección en el <br>frente de trabajo |
+| Hundimiento <br>por bloques | Bajo/bajo | 90/20 | Alta | Mineral retenido |
+
+</div>
+
+## Ciclo de Trabajo minero
+<!-- _class: cols-2 -->
+
+<div class="ldiv">
+
+#### Flujo de trabajo Típico minero
+Este ciclo regular de actividades se compone en perforación, voladura, carguio y acarreo de materiales provenientes del tajo. Este mismo principio es el mismo sin importar si es **mineria cielo abierto** o **mineria subterránea**. 
+Sin embargo, el costeo suele ser diferente a partir de las diferencias que existen en los tipos de minado. 
+
+
+</div>
+
+<div class="rimg">
+ 
+![#c h:400px](./img/MineCycle.png)
+
+</div>
+
+## Perforación
+<!-- _class: fixedtitleA -->
+<div class="div">
+ 
+</div>
+
+## Voladura de Rocas
+<!-- _class: fixedtitleA -->
+<div class="div">
+ 
+</div>
+
+## Carguío
+<!-- _class: fixedtitleA -->
+<div class="div">
+ 
+</div>
+
+## Acarreo
+<!-- _class: fixedtitleA -->
+<div class="div">
+ 
+</div>
+
+---
+<!-- _class: lastpage -->
+<!-- _footer: "" -->
+
+###### Muchas gracias
+
+<div class="icons">
+
+- <i class="fa-brands fa-google"></i>
+  - ameresv@gmail.com
+- <i class="fa-brands fa-telegram"></i> 
+  - +51-956384450  
+- <i class="fa-brands fa-linkedin"></i> 
+  - Ali Meres
+
+<div>
 
 ## Evaluación económica de proyectos mineros
 <!-- _class: trans -->
