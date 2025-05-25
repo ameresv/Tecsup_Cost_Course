@@ -17,7 +17,16 @@
 		"</div>"
 	],
     "description": "define fixed title slide"
-  },
+	},
+
+	"Images": {
+	"prefix":"ima",
+	"body": [
+		"![#c h:450px]()"	
+	],
+	"description": "insert a centered image"
+	},
+
   	"ThreePartSlide":{
 	"prefix":"tps",
 	"body": [
@@ -44,7 +53,36 @@
 		"</div>"
 	],
 	"description": "insert a three part slide"
-  },
+	},
+	
+  "TwoColsSlideI": {
+		"prefix": "tclsi",
+		"body": [
+		"## Title",
+		"",
+		"<style scoped>",
+		"section {",
+		"  row-gap: 20px; ",
+		"}",
+		"</style>",
+		"",
+		"<!-- _class: cols-2 -->",
+			"",
+			"<div class=limg>",
+			"",
+			"![#c h:450px]()",
+			"",
+			"</div>",
+			"",
+			"<div class=rimg>",
+			"",
+			"![#c h:450px]()",
+			"",
+			"</div>"
+		],
+		"description": "insert two columns slide with images"
+	},
+
 	"TwoColsSlide": {
 		"prefix": "tcls",
 		"body": [

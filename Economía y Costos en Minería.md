@@ -734,6 +734,25 @@ section {
 
 </div>
 
+## Minería Subterránea - Métodos de explotación I
+
+![#c h:450px](./img/UGSP.png)
+
+## Minería Subterránea - Métodos de explotación I
+<!-- _class: cols-2 -->
+
+<div class=limg>
+
+![#c h:450px](./img/UGSLS.png)
+
+</div>
+
+<div class=rimg>
+
+![#c h:450px](./img/UGSLS1.png)
+
+</div>
+
 ## Minería Subterránea - Métodos de explotación II
 <!-- _class: fixedtitleA -->
 
@@ -754,6 +773,10 @@ section {
 
 </div>
 
+## Minería Subterránea - Métodos de explotación II
+
+![#c h:450px](./img/UGCaF.png)
+
 ## Minería Subterránea - Métodos de explotación III
 
 <!-- _class: fixedtitleA -->
@@ -773,6 +796,22 @@ section {
 |  |  | Masivo, empinado, <br>grueso, gran tamaño | Hundimiento <br>por bloques |
 
 </div>
+
+## Minería Subterránea - Métodos de explotación III
+<!-- _class: cols-2 -->
+
+<div class=limg>
+
+![#c h:450px](./img/UGBC.png)
+
+</div>
+
+<div class=rimg>
+
+![#c h:450px](./img/UGBC1.png)
+
+</div>
+
 
 ## Minería Subterránea - Resumen 
 <!-- _class: fixedtitleA -->
@@ -819,6 +858,14 @@ section {
 
 </div>
 
+## Mineria Superficial
+
+![#c h:500px](./img/OPDesign.png)  
+
+## Mineria Superficial
+
+![#c h:500px](./img/OPDesign2.png)  
+
 ## Métodos de Minado - Resumen General
 
 <!-- _class: fixedtitleA -->
@@ -861,27 +908,129 @@ Sin embargo, el costeo suele ser diferente a partir de las diferencias que exist
 
 </div>
 
-## Perforación
+## Perforación de taladros 
+<!-- _class: pin-3 -->
+<div class="tdiv">
+ 
+La perforación es el proceso mediante el cual se realizan taladros en la roca con el objetivo de colocar explosivos que permitan fragmentarla para su posterior carga y transporte. Este proceso es una etapa crítica dentro del ciclo de minado, ya que determina la eficiencia de la voladura, el tamaño del material fragmentado y, por lo tanto, la productividad general de la operación minera.
+
+</div>
+
+<div class=limg>
+
+![#c h:350px](./img/Raptor.png)
+
+</div> 
+
+<div class=rimg>
+
+![#c h:350px](img/perfo.png)
+
+</div> 
+
+## Perforación de taladros
 <!-- _class: fixedtitleA -->
 <div class="div">
  
+| **Característica** | **Minería </br> Superficial** | **Minería </br> Subterránea** |
+|:---:|:---:|:---:|
+| **Objetivo Principal** | Fragmentar grandes volúmenes de roca | Fragmentar zonas selectivas o vetas |
+| **Tipo de equipos** | Perforadoras rotativas o de martillo en fondo | Jumbos, martillos neumáticos o hidráulicos |
+| **Acceso al frente de trabajo** | Fácil, al aire libre | Limitado, por túneles y galerías estrechas |
+| **Diámetro de los barrenos** | Grandes (100–400 mm) | Pequeños a medianos (33–76 mm) |
+| **Profundidad de perforación** | Alta (hasta 20–40 m o más por banco) | Moderada (1.5–5 m o más según método) |
+| **Condiciones de trabajo** | Mejor ventilación e iluminación natural | Condiciones restringidas, necesidad de ventilación |
+| **Riesgos operativos** | Desprendimientos, polvo | Colapsos, gases, falta de visibilidad |
+| **Tasa de avance** | Alta (mayor volumen por ciclo) | Menor (operación más precisa y controlada) |
+| **Costo por metro perforado** | Relativamente bajo | Más alto debido a complejidad y accesibilidad |
+| **Flexibilidad de diseño** | Alta, permite rediseñar con más libertad | Limitada por la geometría subterránea |
+
 </div>
+
+## Voladura de Rocas
+
+La voladura es el proceso mediante el cual se fractura y fragmenta la roca utilizando explosivos colocados previamente en taladros perforados. El objetivo principal de la voladura es liberar el material útil (mineral o estéril) para facilitar su carga, transporte y procesamiento, optimizando además los costos y la eficiencia operativa del minado.
+
+![#c h:360px](img/Blasting.png)
 
 ## Voladura de Rocas
 <!-- _class: fixedtitleA -->
 <div class="div">
- 
+
+| **Característica** | **Minería <br>Superficial** | **Minería <br>Subterránea** |
+|:---:|:---:|:---:|
+| **Tipo de voladura** | Voladura masiva <br>por bancos (bench blasting) | Voladura controlada <br>por avance o producción |
+| **Tamaño del área de voladura** | Amplio (decenas a <br>cientos de metros cuadrados) | Reducido (frentes <br>estrechos y confinados) |
+| **Tipo de explosivos** | ANFO, emulsiones a granel | Emulsiones encartuchadas, <br>dinamitas, ANFO confinado |
+| **Control de vibraciones** | Menor preocupación (zonas abiertas) | Alta prioridad (infraestructura cercana) |
+| **Seguridad y riesgos** | Proyección de roca, polvo | Gases tóxicos, estallidos de roca, confinamiento |
+| **Costo relativo** | Más bajo por <br>tonelada fragmentada | Más alto por restricciones </br> de diseño y ventilación |
+
 </div>
 
-## Carguío
-<!-- _class: fixedtitleA -->
-<div class="div">
- 
+## Carguío - en Mina Tajo Abierto
+
+Proceso mediante el cual el material fragmentado (mineral o estéril) es **recogido del frente de trabajo y depositado en un equipo de transporte o almacenamiento intermedio**. Esta etapa clave en el ciclo de minado, ya que determina la **eficiencia del acarreo y la continuidad de la producción**. 
+
+![#c h:380px](./img/Shovel1.png)
+
+## Carguío - en Mina Tajo Abierto
+
+![#c h:450px](img/Shovel3.png)
+
+## Carguío - en Mina Tajo Abierto
+
+<style scoped>
+section {
+  row-gap: 20px; 
+}
+</style>
+
+<!-- _class: cols-2 -->
+
+<div class=limg>
+
+![#c h:400px](img/Crawler1.png)
+
+</div>
+
+<div class=rimg>
+
+![#c h:400px](img/Loader1.png)
+
 </div>
 
 ## Acarreo
-<!-- _class: fixedtitleA -->
-<div class="div">
+
+El acarreo es el **proceso de transporte del material cargado desde el punto de extracción hasta su destino final, que puede ser una chancadora, un botadero, una planta de procesamiento o un sistema de almacenamiento**. Este proceso se puede realizar mediante camiones mineros, fajas transportadoras, vagones, o sistemas autónomos. 
+
+![#c h:380px](img/Hauling1.png)
+
+## Acarreo
+
+![#c h:450px](img/Hauling2.png)
+
+## Acarreo 
+
+<style scoped>
+section {
+  row-gap: 20px; 
+}
+</style>
+
+<!-- _class: cols-2 -->
+
+<div class=limg>
+
+![#c h:480px](img/Hauling3.png)
+
+</div>
+
+<div class=rimg>
+
+![#c h:350px](img/Hauling4.png)
+
+</div>
  
 </div>
 
