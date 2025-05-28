@@ -1034,6 +1034,129 @@ section {
  
 </div>
 
+## Resumen de Actividades Mineras - OP
+
+![#c h:450px](./img/MiningActOP.png)
+
+
+## Resumen de Actividades Mineras - UGM
+
+![#c h:450px](./img/MiningActUGM.png)
+
+## Estructura de Costos Mina Subterránea
+
+<style scoped>
+section {
+  row-gap: 20px; 
+}
+</style>
+
+<!-- _class: cols-2 -->
+
+<div class=limg>
+
+![h:360px](./img/UGMCost1.png)
+
+</div>
+
+<div class=rimg>
+
+![h:360px](./img/UGMCost2.png)
+
+</div>  
+
+## Estructura de Costos Mina Subterránea
+
+<style scoped>
+section {
+  row-gap: 20px; 
+}
+</style>
+
+<!-- _class: cols-2 -->
+
+<div class=limg>
+
+![h:380px](./img/UGMCost3.png)
+
+</div>
+
+<div class=rimg>
+
+![h:380px](./img/UGMCost5.png)
+
+</div>
+
+## Estructura de Costos de Mina Superficial
+
+<style scoped>
+section {
+  row-gap: 20px; 
+}
+</style>
+
+<!-- _class: cols-2 -->
+
+<div class=limg>
+
+![h:380px](./img/OPCost1.png)
+
+</div>
+
+<div class=rimg>
+
+![h:380px](./img/OPCost2.png)
+
+</div>
+
+---
+<!-- _class: lastpage -->
+<!-- _footer: "" -->
+
+###### Ejemplo: Cálculo de Costos mineros
+
+## Procesamiento de Minerales - Esquema típico
+
+![#c h:450px](./img/Beneficio1.png)
+
+## Procesamiento de Minerales - Procesamiento Oro
+
+![#c h:450px](./img/Beneficio2.png)
+
+## Procesamiento de Minerales - Procesamiento Cobre
+
+![#c h:500px](./img/Beneficio3.png)
+
+## Procesamiento de Minerales - Relavera
+
+![#c h:380px](./img/Beneficio4.png)
+
+---
+<!-- _class: lastpage -->
+<!-- _footer: "" -->
+
+###### Ejemplo: Cálculo de Costos Procesamiento
+
+## Mantenimiento de Equipos - Costo
+
+![#c h:450px](./img/Mntto1.png)
+
+## Mantenimiento de Equipos
+
+![#c h:500px](./img/Mntto2.png)
+
+## Gestión del Mantenimiento
+
+![#c h:450px](./img/Mntto3.png)
+
+---
+<!-- _class: lastpage -->
+<!-- _footer: "" -->
+
+###### Ejemplo: Cálculo de Costos Mantto
+
+## Costo de Energía
+
 ---
 <!-- _class: lastpage -->
 <!-- _footer: "" -->
