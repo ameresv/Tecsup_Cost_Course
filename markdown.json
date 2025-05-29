@@ -1,4 +1,30 @@
 {
+	"Fixed title image": {
+    "prefix": "fxti",
+    "body": [
+		"## Title",
+		"",
+		"<style scoped>",
+		"section {",
+		"  row-gap: 0px; ",
+		"}",
+		"</style>",
+		"",
+		"<!-- _class: fixedtitleA -->",
+		"",
+		"![center]()",
+		"",
+		"<figcaption align=\"center\">",
+		"<b> Figura: </b> text",
+		"</figcaption>",
+		"",
+		"<div class=\"div\">",
+		" ",
+		"</div>"
+	],
+    "description": "define fixed title slide with image and caption"
+	},
+	
 	"Fixed title": {
     "prefix": "fxt",
     "body": [
@@ -17,6 +43,18 @@
 		"</div>"
 	],
     "description": "define fixed title slide"
+	},
+
+	"FigCaption": {
+	"prefix":"fct",
+	"body": [
+		"",
+		"<figcaption align=\"center\">",
+		"<b> Figura: </b> text",
+		"</figcaption>",
+		""
+	],
+	"description": "insert figure caption"
 	},
 
 	"Images": {
