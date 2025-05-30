@@ -1304,6 +1304,127 @@ section {
 
 </div>
 
+## Evaluación económica de proyectos mineros
+<!-- _class: trans -->
+<!-- _footer: "" -->
+<!-- _paginate: "" -->
+
+## ¿Qué veremos en este módulo?
+
+<!-- _class: col_ol_ci fglass toc_a -->
+<!-- _footer: "" -->
+<!-- _header: "" -->
+<!-- _paginate: "" -->
+
+- Evaluación de la viabilidad económica de un proyecto minero
+- Cálculo de indicadores financieros: VAN, TIR, periodo de recuperación
+- Análisis de sensibilidad y escenarios en la evaluación económica
+- Consideraciones de riesgo y incertidumbre en la evaluación económica
+
+## ¿Qué es viabilidad de un proyecto minero?
+
+<style scoped>
+section {
+  row-gap: 0px; 
+}
+</style>
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+ 
+</div>
+
+## Viabilidad económica de un proyecto minero
+
+<style scoped>
+section {
+  row-gap: 20px; 
+}
+</style>
+
+<!-- _class: cols-2 -->
+
+<div class=ldiv>
+
+#### Métodos tradicionales
+
+</div>
+
+<div class=rdiv>
+
+#### Nuevos mecanismos
+
+</div>
+
+## Flujo de caja descontado (DCF)
+
+<style scoped>
+section {
+  row-gap: 0px; 
+}
+</style>
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+ 
+</div>
+
+## Limitantes del DCF
+
+<style scoped>
+section {
+  row-gap: 0px; 
+}
+</style>
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+ 
+</div>
+
+## Principales indicadores financieros
+
+<style scoped>
+section {
+  row-gap: 20px; 
+}
+</style>
+
+<!-- _class: cols-2 -->
+
+<div class=ldiv>
+
+</div>
+
+<div class=rdiv>
+
+</div>
+
+## Consideraciones especiales
+
+<style scoped>
+section {
+  row-gap: 20px; 
+}
+</style>
+
+<!-- _class: cols-2 -->
+
+<div class=ldiv>
+
+#### Análisis sensibilidad
+
+</div>
+
+<div class=rdiv>
+
+#### Análisis de escenarios
+
+</div>
+
 ---
 <!-- _class: lastpage -->
 <!-- _footer: "" -->
@@ -1321,22 +1442,6 @@ section {
 
 <div>
 
-## Evaluación económica de proyectos mineros
-<!-- _class: trans -->
-<!-- _footer: "" -->
-<!-- _paginate: "" -->
-
-## ¿Qué veremos en este módulo?
-
-<!-- _class: col_ol_ci fglass toc_a -->
-<!-- _footer: "" -->
-<!-- _header: "" -->
-<!-- _paginate: "" -->
-
-- Análisis de sensibilidad y escenarios en la evaluación económica
-- Cálculo de indicadores financieros: VAN, TIR, periodo de recuperación
-- Evaluación de la viabilidad económica de un proyecto minero
-- Consideraciones de riesgo y incertidumbre en la evaluación económica
 
 ## Gestión financiera en la minería 
 <!-- _class: trans -->
@@ -1350,8 +1455,8 @@ section {
 <!-- _header: "" -->
 <!-- _paginate: "" -->
 
-- Planificación financiera a corto y largo plazo
 - Análisis de rentabilidad y margen en la industria minera
+- Planificación financiera a corto y largo plazo
 - Estrategias de financiamiento en proyectos mineros
 - Gestión de costos y control presupuestario
 
@@ -1367,8 +1472,8 @@ section {
 <!-- _header: "" -->
 <!-- _paginate: "" -->
 
-- Identificación de áreas de mejora y reducción de costos
 - Implementación de prácticas de eficiencia energética
+- Identificación de áreas de mejora y reducción de costos
 - Optimización de procesos y uso de tecnología en la minería
 - Gestión de proveedores y contratos para la reducción de costos
 
