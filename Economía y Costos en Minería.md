@@ -1131,11 +1131,67 @@ section {
 
 ![#c h:380px](./img/Beneficio4.png)
 
+## Procesamiento de Minerales
+
+![#c h:380px](./img/CostoProcesos.png)
+
+## Resumen Costos en el Beneficio
+
+| **Proceso**         | **CAPEX (Inversión Inicial)**                                                                 | **OPEX (Costos Operativos)**                                         |
+|---------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| **Chancado**        | - Trituradoras primarias/secundarias  <br> - Correas transportadoras <br> - Infraestructura civil | - Energía eléctrica <br> - Mantenimiento mecánico <br> - Repuestos y consumibles |
+| **Molienda**        | - Molinos SAG, bolas o barras <br> - Ciclones o hidrociclones <br> - Fundaciones y edificios   | - Energía (alto consumo) <br> - Bolas de acero <br> - Mantenimiento de equipos |
+| **Clasificación**   | - Zarandas y cribas <br> - Ciclones o hidrociclones                                           | - Mantenimiento <br> - Repuestos <br> - Consumo de agua              |
+| **Flotación**       | - Celdas de flotación <br> - Tanques de acondicionamiento <br> - Sistemas de dosificación     | - Reactivos (espumantes, colectores) <br> - Energía <br> - Mantenimiento |
+
+
+
+## Resumen Costos en el Beneficio
+
+| **Proceso**         | **CAPEX (Inversión Inicial)**                                                                 | **OPEX (Costos Operativos)**                                         |
+|---------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| **Lixiviación**     | - Pilas o tanques de lixiviación <br> - Sistema de riego o agitación <br> - Plantas SX-EW     | - Ácido sulfúrico o cianuro <br> - Energía <br> - Mantenimiento de bombas |
+| **Espesamiento**    | - Espesadores <br> - Bombas de relave <br> - Tanques de control                               | - Floculantes <br> - Energía <br> - Mantenimiento y limpieza         |
+| **Filtrado**        | - Filtros prensa o cerámicos <br> - Sistemas de vacío <br> - Secadores                        | - Repuestos de filtros <br> - Energía <br> - Personal técnico        |
+| **Relaves**         | - Depósitos de relaves <br> - Tuberías y bombas <br> - Sistemas de monitoreo                  | - Manejo y transporte <br> - Monitoreo ambiental <br> - Mantenimiento |
+
 ---
 <!-- _class: lastpage -->
 <!-- _footer: "" -->
 
 ###### Ejemplo: Cálculo de Costos Procesamiento
+
+## Mantenimiento de Equipos Mineros - Modelo de tiempos
+
+| **Componente del Tiempo**           | **Símbolo** | **Descripción**                                  | **Ejemplo (min/día)** |
+|------------------------------------|-------------|--------------------------------------------------|------------------------|
+| Tiempo disponible                  | T_disp      | Total tiempo calendario disponible               | 1,440 min              |
+| Tiempo de operación                | T_op        | Tiempo efectivo que el equipo trabaja            | 1,000 min              |
+| Tiempo de detención programada     | T_prog      | Mantenimiento preventivo, repostaje, cambio turno| 300 min                |
+| Tiempo de detención no programada  | T_np        | Fallas imprevistas, condiciones climáticas       | 100 min                |
+| **Utilización**                    | U = T_op / T_disp | Porcentaje del tiempo usado efectivamente   | 69.4%                  |
+| **Disponibilidad mecánica**        | D = (T_disp - T_np) / T_disp | Capacidad del equipo sin fallas     | 93.1%                  |
+| **Eficiencia operativa**           | E = T_op / (T_disp - T_prog) | Eficiencia sin considerar detenciones programadas | 83.3%                  |
+
+## Factores clave en la gestión del mantto
+
+| **#** | **Factor Crítico**                  | **Descripción**                                                                                   |
+|-------|-------------------------------------|---------------------------------------------------------------------------------------------------|
+| 1     | Tipo y criticidad del equipo        | Equipos mayores como palas, camiones y molinos son claves y costosos en mantenimientos.          |
+| 2     | Condiciones de operación            | Altitud, polvo, humedad y horarios continuos aceleran el desgaste.                               |
+| 3     | Estrategia de mantenimiento         | Preventivo y predictivo son más eficientes pero requieren planificación e inversión.             |
+| 4     | Disponibilidad de repuestos         | Demoras logísticas y repuestos críticos elevan costos si no hay stock adecuado.                  |
+| 5     | Mano de obra especializada          | Técnicos calificados tienen altos costos, especialmente en lugares remotos o turnos extremos.    |
+
+## Factores clave en la gestión del mantto
+
+| **#** | **Factor Crítico**                  | **Descripción**                                                                                   |
+|-------|-------------------------------------|---------------------------------------------------------------------------------------------------|
+| 6     | Edad y tecnología del equipo        | Equipos antiguos requieren más mantenimientos; nuevos necesitan formación y software.            |
+| 7     | Sistemas de gestión (CMMS)          | Ayudan a optimizar recursos y tiempos, pero requieren capacitación y buen diseño.                |
+| 8     | Paradas programadas (shutdowns)     | Requieren logística compleja, muchas horas-hombre y piezas críticas.                             |
+| 9     | Lubricantes y consumibles           | Cambio de aceites, filtros y grasas debe estar optimizado para evitar sobrecostos.               |
+| 10    | Contratos de mantenimiento externo  | Mal estructurados, pueden elevar OPEX; deben incluir KPIs de disponibilidad y tiempo efectivo.   |
 
 ## Mantenimiento de Equipos - Costo
 
@@ -1149,6 +1205,24 @@ section {
 
 ![#c h:450px](./img/Mntto3.png)
 
+## Gestión del Mntto
+
+| **#** | **Función Principal**                                        | **Descripción**                                                                 |
+|-------|--------------------------------------------------------------|---------------------------------------------------------------------------------|
+| 1     | Planificación del mantenimiento                              | Diseñar y ejecutar planes preventivos, correctivos y predictivos eficaces.     |
+| 2     | Gestión del presupuesto de mantenimiento                     | Controlar el CAPEX y OPEX del área, optimizando costos sin comprometer equipos.|
+| 3     | Disponibilidad y confiabilidad de equipos                    | Asegurar alta disponibilidad y bajos tiempos de inactividad no planificada.     |
+| 4     | Liderazgo y desarrollo del equipo técnico                    | Coordinar, formar y motivar al personal técnico, supervisores y contratistas.   |
+| 5     | Mejora continua y análisis de fallas                         | Implementar mejoras técnicas y procesos basados en análisis de datos históricos.|
+
+## KPI Clave en Gestión del Mntto
+ 
+| **Indicador**                 | **Fórmula / Descripción**                                                       | **Meta Referencial**     |
+|------------------------------|----------------------------------------------------------------------------------|--------------------------|
+| **Disponibilidad mecánica**  | `(Tiempo disponible - Paradas no programadas) / Tiempo total`                   | > 85–90%                 |
+| **MTBF** (Mean Time Between Failures) | Tiempo promedio entre dos fallas consecutivas en un equipo                      | > 100 horas (referencial)|
+| **Costo de mantenimiento por tonelada** | `Costo total de mantenimiento / Toneladas producidas o movidas`              | 0.2 – 0.6 USD/ton (mina) |
+
 ---
 <!-- _class: lastpage -->
 <!-- _footer: "" -->
@@ -1156,6 +1230,79 @@ section {
 ###### Ejemplo: Cálculo de Costos Mantto
 
 ## Costo de Energía
+<!-- _class: fixedtitleA -->
+<div class="div">
+ 
+| **Driver Crítico** | **Aplicación en Energía** |
+|:---:|:---:|
+| Tipo de proceso minero | Molienda y bombeo son intensivos en energía eléctrica |
+| Ubicación de la mina | Altitud y distancia a la red eléctrica encarecen suministro y conexión |
+| Tarifas locales y contratos | Tarifas reguladas vs libres; contratos spot o a largo plazo |
+| Eficiencia operativa de equipos | Equipos antiguos o mal mantenidos consumen más energía |
+| Uso de tecnologías sostenibles | Energías renovables, variadores de frecuencia, automatización |
+| Regulaciones y normativas ambientales | Obligación de reportar huella de carbono y uso hídrico |
+| Tipo de mina | Subterráneas requieren más energía para ventilación e iluminación |
+
+</div>
+
+## Costo de asociados a la gestión de Agua
+<!-- _class: fixedtitleA -->
+<div class="div">
+
+| **Driver Crítico** | **Aplicación en Agua** |
+|:---:|:---:|
+| Tipo de proceso minero | Lixiviación, relaves y plantas de tratamiento consumen grandes volúmenes |
+| Ubicación de la mina | Regiones áridas requieren desalación, transporte y reciclaje intensivo |
+| Tarifas locales y contratos | Tarifas de concesión de agua, derechos, sanciones ambientales |
+| Eficiencia operativa de equipos | Pérdidas en circuitos hidráulicos o evaporación incrementan el uso |
+| Uso de tecnologías sostenibles | Recirculación, espesadores eficientes, reúso de aguas |
+| Regulaciones y normativas ambientales | Límites de consumo, calidad del efluente y permisos de vertido |
+| Tipo de mina | Superficiales consumen más agua en polvorientos y riego de caminos |
+
+</div>
+
+## Recomendaciones para la gestión de Costos Mineros
+<!-- _class: fixedtitleA -->
+<div class="div">
+
+| **Recomendación** | **Aplicación** |
+|:---:|:---:|
+| Desagrega los costos por área y unidad de producción | Ej.: USD/t-minada, USD/t-procesada, USD/kWh, USD/m³, etc. |
+| Monitorea KPIs operativos en tiempo real | Ej.: disponibilidad de equipos, consumo específico de energía y agua |
+| Implementa mantenimientos predictivos | Reduce fallas críticas y costos por detenciones no programadas |
+| Compara benchmarks internos y externos | Identifica oportunidades de mejora con operaciones similares |
+| Usa dashboards integrados y reportes periódicos | Control visual y seguimiento por área (minado, planta, servicios auxiliares) |
+
+</div>
+
+## Recomendaciones para presentar resultados 
+
+<!-- _class: fixedtitleA -->
+<div class="div">
+
+| **Estrategia** | **Aplicación / Ejemplo** |
+|:---:|:---:|
+| Cuantifica el ahorro potencial | "Reducción de 5% en energía = USD 500k/año" |
+| Prioriza acciones por impacto vs. factibilidad | Diagrama de Pareto o matriz de impacto |
+| Propón pilotos o pruebas controladas | Validar eficiencia antes de escalar la estrategia |
+| Enlaza mejoras con productividad o seguridad | “Menos fallas = + producción y - riesgos” |
+| Sustenta con datos y casos reales (internos o del sector) | Aumenta credibilidad ante gerencia |
+
+</div>
+
+## Recomendaciones para presentar resultados 
+<!-- _class: fixedtitleA -->
+<div class="div">
+ 
+| **Tip** | **Justificación** |
+|:---:|:---:|
+| Simplifica para la audiencia | No todos manejan lenguaje técnico: usa analogías o gráficos |
+| Relaciona siempre el costo con el valor o producción | “Menor costo” solo es útil si no afecta producción ni calidad |
+| Establece metas claras y alcanzables | Ayuda a comprometer equipos y facilita evaluación |
+| Automatiza reportes y dashboards | Ahorra tiempo y reduce errores humanos |
+| Documenta supuestos y fuentes de datos | Mejora la trazabilidad y evita disputas en revisiones |
+
+</div>
 
 ---
 <!-- _class: lastpage -->
