@@ -1321,41 +1321,65 @@ section {
 - Análisis de sensibilidad y escenarios en la evaluación económica
 - Consideraciones de riesgo y incertidumbre en la evaluación económica
 
-## ¿Qué es viabilidad de un proyecto minero?
+---
+<!-- _class: lastpage -->
+<!-- _footer: "" -->
 
-<style scoped>
-section {
-  row-gap: 0px; 
-}
-</style>
-
-<!-- _class: fixedtitleA -->
-
-<div class="div">
- 
-</div>
+###### ¿Qué entendemos por viabilidad?
 
 ## Viabilidad económica de un proyecto minero
 
 <style scoped>
 section {
-  row-gap: 20px; 
+  row-gap: 0px; 
 }
+
+.div{
+  margin-top: 100px;
+}
+
+p {
+  font-size: 30px;
+  font-style: italic;
+}
+
 </style>
 
-<!-- _class: cols-2 -->
+<!-- _class: fixedtitleA -->
 
-<div class=ldiv>
+<div class="div">
 
-#### Métodos tradicionales
-
-</div>
-
-<div class=rdiv>
-
-#### Nuevos mecanismos
+> There is something very wrong with [the] conventional model of decision-making ... it conceives of decision-making as a process of selecting from existing options according to a fixed formula ... But in fact that is what happens only at the end of decision making – the phase that does not require creative thought ... At the heart of decision-making is the creation of new options and the abandonment or modification of existing ones (Deutsch, 2011, p 341).​
 
 </div>
+
+## Métodos tradicionales - Estimación  de Punto Único​
+
+- Estima el valor esperado para entradas variables especifica.
+- Aproximado y generalizado pero rápido y fácil​
+  
+![#c h:420px](./img/MPtoUnico.png)
+
+## Métodos tradicionales - Análisis de Situaciones “Y si”​
+
+- Rango de posibilidades incrementales y marginales​
+- Laborioso, revela posibilidades y no probabilidades
+
+![#c h:350px](./img/MPtoYsi.png)
+
+## Métodos tradicionales - Análisis de Situaciones “Y si”​
+
+![#c h:450px](./img/MPtoYsi2.png)
+
+## Métodos tradicionales - Análisis  de Escenarios​
+
+- Ofrece escenario más probable, mejor escenario y peor  escenario. 
+
+![#c h:450px](./img/MPtoEsc.png)
+
+## El problema de los promedios
+
+![#c h:450px](./img/PromProb.png)
 
 ## Flujo de caja descontado (DCF)
 
@@ -1369,23 +1393,106 @@ section {
 
 <div class="div">
  
+![center](./img/VAN.png)
+
 </div>
+
+## Flujo de caja descontado (DCF)
+
+![center h:450px](./img/VAN2.png)
+
+## Flujo de caja descontado (DCF)
+
+<style scoped>
+
+.MathJax svg {
+  max-height: 200px !important; 
+}
+</style>
+
+$$ \text{VAN} = \sum^n_{i=0}{\frac{FC_i}{(1+r)^i}} - I_o $$
+
+#### Tasa interna de Retorno (TIR)
+Tasa de descuento que hace al valor presente neto (VAN) igual a cero. 
+
+#### Payback Period
+Tiempo de retorno de la inversión 
 
 ## Limitantes del DCF
 
+| Alternativa    | Método de Cálculo                                                       | NPV Final |
+|----------------|-------------------------------------------------------------------------|-----------|
+| Alternativa K  | Un solo caso                                                            | 50        |
+| Alternativa K  | Múltiples casos con opcionalidad - ponderado por probabilidad           | 53        |
+| Alternativa K  | Matemáticas probabilísticas sofisticadas                                | 48        |
+
+## Limitantes del DCF
+
+![#c h:450px](./img/NPVProb1.png)
+
+## Limitantes del DCF
+
+![#c h:450px](./img/NPVProb2.png)
+
+## Limitantes del DCF
+
+![#c h:450px](./img/NPVProb3.png)
+
+## Limitantes del DCF
+
+![#c h:450px](./img/NPVProb4.png)
+
+## Limitaciones del DCF
+
+1. No permite considerar adecuadamente los riesgos específicos de los proyectos mineros.
+   
+  - No permite aplicar adecuadamente factores de descuento apropiados para ajustar por el riesgo.
+  - Problemas con el uso del WACC corporativo
+  - Problemas con la TIR, Payback y otras medidas
+  - Volatilidad de los precios de los productos mineros
+  - Riesgo geológico
+  
+2. No permite valorizar correctamente proyectos mineros de larga duración (o sea casi todos)
+
+## Limitantes del TIR
+
+Exhibe múltiples raíces, pues esta tarda resuelve un polinomio. Pueden haber varias TIRs si los flujos de caja son “intermitentes.”
+
+![#c h:380px](./img/NPVProb5.png)
+
+## Limitantes del TIR
+
+![#c h:450px](./img/NPVProb6.png)
+
+## Limitantes del DCF
+
+![#c h:450px](./img/NPVProb7.png)
+
+## Limitantes del DCF
+
+![#c h:450px](./img/NPVProb8.png)
+
+## Weighted Average Cost of Capital - WACC
+
 <style scoped>
 section {
-  row-gap: 0px; 
+  row-gap: 30px; 
 }
+
 </style>
 
 <!-- _class: fixedtitleA -->
 
 <div class="div">
  
+- El flujo de caja necesita ser descontado por una tasa de descuento apropiada. Para ello, se hará uso de la teoría de mercado de capitales.
+- La tasa de descuento puede ser vista como el valor alcanzable necesario para lograr cumplir las expectativas mínimas del mercado para los activos listados. Si un VAN positivo es logrado a una determinada tasa de descuento, entonces el valor adicional será añadido a la compañía. 
+- El costo de capital es la tasa de retorno aceptada que puede realizarse en una alternativa de inversión similar de riesgo equivalente.
+- En la práctica común, los términos “costo de capital”, “tasa de retorno”, “tasa de descuento”, “costo de oportunidad de capital” son usados de forma intercambiable. Sin embargo, no deben confundirse con “costo financiero de capital” el cual esta relacionado al costo del dinero que ha sido dado por bonos, créditos, acciones comunes, entre otros. 
+
 </div>
 
-## Principales indicadores financieros
+## WACC
 
 <style scoped>
 section {
@@ -1395,11 +1502,15 @@ section {
 
 <!-- _class: cols-2 -->
 
-<div class=ldiv>
+<div class=limg>
+
+![h:450px](./img/wacc1.png)
 
 </div>
 
-<div class=rdiv>
+<div class=rimg>
+
+![h:450px](./img/wacc2.png)
 
 </div>
 
