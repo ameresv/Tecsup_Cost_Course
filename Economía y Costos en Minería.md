@@ -1454,23 +1454,23 @@ Tiempo de retorno de la inversión
   
 2. No permite valorizar correctamente proyectos mineros de larga duración (o sea casi todos)
 
+## Limitantes del DCF
+
+![#c h:450px](./img/NPVProb8.png)
+
 ## Limitantes del TIR
 
 Exhibe múltiples raíces, pues esta tarda resuelve un polinomio. Pueden haber varias TIRs si los flujos de caja son “intermitentes.”
 
 ![#c h:380px](./img/NPVProb5.png)
 
-## Limitantes del TIR
+## Adopción de nuevos mecanismos
 
 ![#c h:450px](./img/NPVProb6.png)
 
-## Limitantes del DCF
+## ¿Qué indicadores confiamos?
 
 ![#c h:450px](./img/NPVProb7.png)
-
-## Limitantes del DCF
-
-![#c h:450px](./img/NPVProb8.png)
 
 ## Weighted Average Cost of Capital - WACC
 
