@@ -1410,7 +1410,7 @@ section {
 }
 </style>
 
-$$ \text{VAN} = \sum^n_{i=0}{\frac{FC_i}{(1+r)^i}} - I_o $$
+$$\text{VAN} = \sum^n_{i=0}{\frac{FC_i}{(1+r)^i}} - I_o$$
 
 #### Tasa interna de Retorno (TIR)
 Tasa de descuento que hace al valor presente neto (VAN) igual a cero. 
@@ -1418,13 +1418,44 @@ Tasa de descuento que hace al valor presente neto (VAN) igual a cero.
 #### Payback Period
 Tiempo de retorno de la inversión 
 
+## Un dólar Real vs un dólar nominal
+
+<center>
+
+$1 + \text{Dolar Real} = \frac{1 + \text{Dolar Nominal}}{(1 + \text{Inflation Rate expresado en decimal})^\text{Tiempo}}$
+
+![alt text h:250px](./img//MinEcoMinFin07b.png)
+
+</center>
+
+## Conceptos Clave
+
+<center>
+
+![alt text](./img/MinEcoMinFin08.png)
+
+</center>
+
 ## Limitantes del DCF
+
+<style scoped>
+section {
+  row-gap: 100px; 
+}
+
+</style>
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
 
 | Alternativa    | Método de Cálculo                                                       | NPV Final |
 |----------------|-------------------------------------------------------------------------|-----------|
 | Alternativa K  | Un solo caso                                                            | 50        |
 | Alternativa K  | Múltiples casos con opcionalidad - ponderado por probabilidad           | 53        |
 | Alternativa K  | Matemáticas probabilísticas sofisticadas                                | 48        |
+ 
+</div>
 
 ## Limitantes del DCF
 
@@ -1444,7 +1475,17 @@ Tiempo de retorno de la inversión
 
 ## Limitaciones del DCF
 
-1. No permite considerar adecuadamente los riesgos específicos de los proyectos mineros.
+<style scoped>
+section {
+  row-gap: 40px; 
+}
+</style>
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+ 
+- No permite considerar adecuadamente los riesgos específicos de los proyectos mineros.
    
   - No permite aplicar adecuadamente factores de descuento apropiados para ajustar por el riesgo.
   - Problemas con el uso del WACC corporativo
@@ -1452,7 +1493,9 @@ Tiempo de retorno de la inversión
   - Volatilidad de los precios de los productos mineros
   - Riesgo geológico
   
-2. No permite valorizar correctamente proyectos mineros de larga duración (o sea casi todos)
+- No permite valorizar correctamente proyectos mineros de larga duración (o sea casi todos)
+
+</div>
 
 ## Limitantes del DCF
 
@@ -1514,7 +1557,106 @@ section {
 
 </div>
 
-## Consideraciones especiales
+## Problemas con el WACC
+
+![center](./img/WACCProb.png)
+
+![center](./img/WACCProb2.png)
+
+<figcaption align="center">
+<b> Figura: </b> Problemas con el WACC
+</figcaption>
+
+## Problemas con el WACC
+
+![center](./img/WACCProb3.png)
+
+<figcaption align="center">
+<b> Figura: </b> Problemas con el WACC
+</figcaption>
+
+## Problemas con el WACC
+
+![center](./img/WACCProb4.png)
+
+<figcaption align="center">
+<b> Figura: </b> Problemas con el WACC
+</figcaption>
+
+## Problemas con el WACC
+
+![center](./img/WACCProb5.png)
+
+<figcaption align="center">
+<b> Figura: </b> Problemas con el WACC
+</figcaption>
+
+## Estructura Financiera de una Empresa Minera
+
+<!-- _class: cols-2 -->
+
+<div class=ldiv>
+
+![Estructura de Financiamiento ](./img/MinEcoMinFin06.png)
+
+$$R_c = WACC = \frac{D}{D+E} \times R_d \times (1-t) \ + \frac{E}{D+E} \times R_e $$
+
+</div>
+
+<div class=rdiv>
+
+Donde:
+ - WACC = Weight Average Cost of Capital 
+ - t = Tasa de impuesto
+
+Considerando 
+
+$$R_e = R_f \ + \beta \times (R_M - R_f) $$
+
+Donde:
+ - $R_f$ = Retorno de bonos soberanos
+ - $R_M$ = Retorno de Mercado Diversificado
+ - $\beta$ = Indice de sensibilidad del activo frente al retorno del mercado
+
+</div>
+
+## Estructura Financiera de una Empresa Minera
+
+> *Nota*: Aquí es importante notar que la parte correspondiente a la deuda presenta un *descuento por impuesto* a partir que la deuda es deducible de impuesto. Así, mayor t, menor WACC y viceversa. 
+
+Históricamente el *premium* proveniente por el $R_M$ sobre $R_f$ se encuentra entre $[4\% - 6\%]$ con tendencia a utilizar el valor más alto para los cálculos.
+
+Ejemplo:
+Si el post-tax $\beta$ de una acción es 1.26 y el retorno post-tax de un bono soberano a 10 años es de $5.4 \%$, entonces el costo de equity post-tax es de:
+
+<center>
+
+$R_e = 5.4\% + 1.26 \times 6\%$ 
+
+$R_e = 13.0\%$ 
+
+</center>
+
+## El problema con Beta ($\beta$)
+
+<style scoped>
+
+.MathJax svg {
+  max-height: 150px !important; 
+}
+</style>
+
+- El $\beta$ desacoplado se calcula mediante la siguente expresión:
+
+$$\beta_a = \frac{\beta}{(1+\frac{D}{E}\times(1-t))}$$
+
+Donde:
+- $\beta$ = Parámetro $\beta$ 
+- D = Deuda de Compañía
+- E = Patrimonio de la Compañía (Capitalización de Mercado)
+- t = tasa de impuesto
+
+## El problema con Beta ($\beta$)
 
 <style scoped>
 section {
@@ -1522,19 +1664,58 @@ section {
 }
 </style>
 
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+
+- $\beta$ cambia con el tiempo. Lo cual lo hace difícil de cuantificar
+- Valores de $\beta$ para proyectos debería ser diferente a valores de $\beta$ para el mercado de acciones
+- Si bien la teoría establece que $\beta$ siempre deber ser positivo, ya que implica que una determinada empresa esta alienada al mercado. En minería eso no ocurre, las minas de Oro tienden a tener un $\beta$ negativo. (Recordar la definición de $\beta$)
+
+![#c h:320px](./img/BarrickBeta.png)
+
+</div>  
+
+## ¿De donde viene el dinero?
+
+<center>
+
+![Estructura de Financiamiento h:500px](./img/MinEcoMinFin06a.png)
+
+</center>
+
+## Conceptos Clave
+
 <!-- _class: cols-2 -->
 
 <div class=ldiv>
 
-#### Análisis sensibilidad
+<center>
+
+![Entendiendo el cash cost h:422px](./img/MinEcoMinFin07.png)
+
+</center>
+
+<figcaption align="center">
+<b> Figura: </b> Entendiendo el Cash Cost.
+</figcaption>
 
 </div>
 
-<div class=rdiv>
+<div>
 
-#### Análisis de escenarios
+<center>
+
+![alt text h:396px](./img/MinEcoMinFin07a.png)
+
+</center>
+
+<figcaption align="center">
+<b> Figura: </b> Alcance del modelo financiero.
+</figcaption>
 
 </div>
+
 
 ---
 <!-- _class: lastpage -->
