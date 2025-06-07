@@ -1716,6 +1716,78 @@ section {
 
 </div>
 
+## Gestión financiera en la minería 
+<!-- _class: trans -->
+<!-- _footer: "" -->
+<!-- _paginate: "" -->
+
+## ¿Qué veremos en este módulo?
+
+<!-- _class: col_ol_ci fglass toc_a -->
+<!-- _footer: "" -->
+<!-- _header: "" -->
+<!-- _paginate: "" -->
+
+- Análisis de rentabilidad y margen en la industria minera
+- Planificación financiera a corto y largo plazo
+- Estrategias de financiamiento en proyectos mineros
+- Gestión de costos y control presupuestario
+
+## Análisis de rentabilidad y margen en la industria minera
+
+<style scoped>
+section {
+  row-gap: 0px; 
+}
+</style>
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+ 
+</div>
+
+## Planificación financiera a corto y largo plazo
+
+<style scoped>
+section {
+  row-gap: 0px; 
+}
+</style>
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+ 
+</div>
+
+## Estrategias de financiamiento en proyectos mineros
+
+<style scoped>
+section {
+  row-gap: 0px; 
+}
+</style>
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+ 
+</div>
+
+## Gestión de costos y control presupuestario
+
+<style scoped>
+section {
+  row-gap: 0px; 
+}
+</style>
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+ 
+</div>
 
 ---
 <!-- _class: lastpage -->
@@ -1733,24 +1805,6 @@ section {
   - Ali Meres
 
 <div>
-
-
-## Gestión financiera en la minería 
-<!-- _class: trans -->
-<!-- _footer: "" -->
-<!-- _paginate: "" -->
-
-## ¿Qué veremos en este módulo?
-
-<!-- _class: col_ol_ci fglass toc_a -->
-<!-- _footer: "" -->
-<!-- _header: "" -->
-<!-- _paginate: "" -->
-
-- Análisis de rentabilidad y margen en la industria minera
-- Planificación financiera a corto y largo plazo
-- Estrategias de financiamiento en proyectos mineros
-- Gestión de costos y control presupuestario
 
 ## Optimización de costos en minería  
 <!-- _class: trans -->
