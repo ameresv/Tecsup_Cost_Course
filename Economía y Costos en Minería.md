@@ -4,7 +4,7 @@ size: 16:9
 theme: am_blue
 paginate: true
 headingDivider: 2
-footer: \ *AMVargas* *Tecsup - Economía y costos en minería* *2025-05 (v1.0)*
+footer: \ *AMVargas* *Tecsup - Economía y costos en minería* *2025-06 (v1.1)*
 ---
 
 <!-- _class: cover_d -->
@@ -1845,7 +1845,6 @@ La planificación financiera es la brújula que permite a las operaciones minera
 <figcaption align="center">
 <b> Figura: </b> Gestión Financiera en minería - Visión Antigua
 </figcaption>
- 
 
 ## Planificación financiera a corto y largo plazo
 
@@ -1905,6 +1904,10 @@ En minería, el control de costos no es simplemente un ejercicio de contabilidad
 
 ![center h:480px](./img/SourceProb.png)
 
+## Gestión de costos y control presupuestario
+
+![center h:400px](./img/Results.png)
+
 ## Optimización de costos en minería  
 <!-- _class: trans -->
 <!-- _footer: "" -->
@@ -1926,15 +1929,57 @@ En minería, el control de costos no es simplemente un ejercicio de contabilidad
 
 <style scoped>
 section {
-  row-gap: 0px; 
+  row-gap: 10px; 
 }
 </style>
 
 <!-- _class: fixedtitleA -->
 
 <div class="div">
- 
+
+##### Creciente Consumo e Intensidad Energética: 
+El sector minero presenta el consumo de energía de más rápido crecimiento en Australia, y se proyecta que esta cifra continúe aumentando significativamente hacia 2030. Esto se debe, en gran parte, a la disminución de la ley promedio del mineral, lo que requiere **más energía para producir la misma cantidad de producto**.
+
+##### Dominio Continuo de los Combustibles Fósiles:
+La industria sigue dependiendo en gran medida de **los combustibles fósiles**. El gas (53%), los productos derivados del petróleo (23%) y la electricidad (19%) —generada principalmente a partir de carbón— son sus principales fuentes de energía. El sector "no está actualmente posicionado para convertirse en un consumidor importante de energía renovable" a gran escala.
+
 </div>
+
+## Implementación de prácticas de eficiencia energética
+
+<style scoped>
+section {
+  row-gap: 10px; 
+}
+</style>
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+
+##### Interés Creciente en Opciones Específicas de Energía Limpia
+Aunque aún no está generalizado, hay un **enfoque en la energía solar, eólica y de biomasa como posibles soluciones de energía limpia para la industria**. La Energía Solar de Concentración (CSP, por sus siglas en inglés) se considera particularmente atractiva porque muchas minas están ubicadas en áreas con alta irradiación solar.
+
+##### Preferencia por Medidas Menores
+Actualmente, las empresas tienden a priorizar las compensaciones de carbono y las medidas de eficiencia energética por encima de los proyectos de energía limpia a gran escala, los cuales se perciben como de alto costo inicial. Muchas de las aplicaciones de energía limpia se describen como "simbólicas", como el uso de luces solares.
+
+</div>
+
+## Implementación de prácticas de eficiencia energética
+
+![center h:400px](./img/CleanMining1.png)
+
+<figcaption align="center">
+<b> Figura: </b> Gestión de la eficiencia energética en minería
+</figcaption>
+
+## Implementación de prácticas de eficiencia energética
+
+![center h:400px](./img/CleanMining2.png)
+
+<figcaption align="center">
+<b> Figura: </b> Versión ganar-ganar de la apuesta energética
+</figcaption>
 
 ## Identificación de áreas de mejora y reducción de costos
 
@@ -1952,17 +1997,19 @@ section {
 
 ## Optimización de procesos y uso de tecnología en la minería
 
-<style scoped>
-section {
-  row-gap: 0px; 
-}
-</style>
+![center h:400px](./img/RetosDTMining.png)
 
-<!-- _class: fixedtitleA -->
+<figcaption align="center">
+<b> Figura: </b> Retos en la apliación de gemelos digitales en minería
+</figcaption>
 
-<div class="div">
- 
-</div>
+## Optimización de procesos y uso de tecnología en la minería
+
+![center h:400px](./img/DTMining.png)
+
+<figcaption align="center">
+<b> Figura: </b> Aplicación de gemelo digital en minería
+</figcaption>
 
 ## Gestión de proveedores y contratos para la reducción de costos
 
