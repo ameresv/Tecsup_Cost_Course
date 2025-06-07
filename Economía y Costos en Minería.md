@@ -1745,6 +1745,74 @@ section {
 
 <div class="div">
  
+##### ¿Por qué es importante?
+
+- **Indicador de sostenibilidad:** Las operaciones con bajo margen difícilmente pueden sostener inversiones en seguridad, medio ambiente o desarrollo comunitario.
+- **Atracción de capital:** Inversionistas priorizan operaciones con rendimientos consistentes y predecibles.
+- **Base para decisiones estratégicas:** Proyectos no rentables en términos ajustados al riesgo deberían ser descartados desde el inicio.
+
+##### ¿Cómo se aplica en la práctica?
+
+1. **Formulación de estrategia:** Un marco estratégico claro permite definir metas de retorno y márgenes deseados.
+
+</div>
+
+## Análisis de rentabilidad y margen en la industria minera
+
+<style scoped>
+section {
+  row-gap: 0px; 
+}
+</style>
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+ 
+##### ¿Cómo se aplica en la práctica?
+
+2. **Optimización del portafolio:** Mineras líderes priorizan activos con retorno sobre el capital invertido (ROIC) superior al costo de capital.
+3. **Alineación operativa:** Las métricas de rentabilidad se traducen en planes tácticos y KPIs por unidad operativa.
+
+##### Principios y mejores prácticas
+
+| Principio Gerencial | Aplicación en Minería |
+|---------------------|------------------------|
+| ROIC sobre WACC | Asegura que se crea valor económico real. |
+| NPV positivo y robusto ante sensibilidad | Garantiza resiliencia ante volatilidad de precios. |
+| Margen operativo > 30% | Suele indicar eficiencia operativa y resiliencia. |
+| Costos All-in Sustaining Costs (AISC) | Comparación estándar entre pares. |
+
+</div>
+
+## Análisis de rentabilidad y margen en la industria minera
+
+<style scoped>
+section {
+  row-gap: 0px; 
+}
+</style>
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+ 
+##### Riesgos y errores comunes
+
+| Riesgo | Descripción | Consecuencia |
+|--------|-------------|--------------|
+| Subestimar costos indirectos | Especialmente en entornos complejos o remotos | Erosión del margen |
+| Ignorar impuestos o regalías locales | Impacto directo en rentabilidad neta | Decisiones erróneas de inversión |
+| Evaluación con precios optimistas | Uso de escenarios no realistas | Sobrevaloración de proyectos |
+
+##### Checklist Gerencial para Evaluar Rentabilidad
+
+| Ítem | ¿Implementado? | Observaciones |
+|------|----------------|---------------|
+| ¿Se evalúa ROIC trimestralmente? | [ ] | |
+| ¿Existen metas mínimas de margen por operación? | [ ] | |
+| ¿Está alineada la estrategia con los activos más rentables? | [ ] | |
+
 </div>
 
 ## Planificación financiera a corto y largo plazo
@@ -1758,22 +1826,56 @@ section {
 <!-- _class: fixedtitleA -->
 
 <div class="div">
+
+La planificación financiera es la brújula que permite a las operaciones mineras navegar por un entorno de alta incertidumbre. Permite anticipar necesidades de capital, proyectar flujos de caja, gestionar riesgos estratégicos y garantizar que los recursos estén alineados con los objetivos del negocio.
+
+##### ¿Por qué es importante?
+
+- **Alineación estratégica:** Vincula los objetivos de largo plazo con decisiones tácticas inmediatas.
+- **Reducción de incertidumbre:** Provee estructura frente a mercados volátiles.
+- **Sustentabilidad operativa:** Permite proyectar necesidades de mantenimiento, renovación de flota, inversiones sociales, etc.
+- **Acceso a capital:** Los planes financieros sólidos inspiran confianza en inversionistas y prestamistas.
  
 </div>
 
-## Estrategias de financiamiento en proyectos mineros
+## Planificación financiera a corto y largo plazo
+
+![#c h:380px](./img/FinManMin.png)
+
+<figcaption align="center">
+<b> Figura: </b> Gestión Financiera en minería - Visión Antigua
+</figcaption>
+ 
+
+## Planificación financiera a corto y largo plazo
 
 <style scoped>
 section {
-  row-gap: 0px; 
+  row-gap: 20px; 
 }
 </style>
 
-<!-- _class: fixedtitleA -->
+<!-- _class: cols-2 -->
 
-<div class="div">
- 
+<div class=limg>
+
+![h:250px](./img/FinManMin2.png)
+
 </div>
+
+<div class=rimg>
+
+![h:250px](./img/FinManMin3.png)
+
+</div>    
+
+## Estrategias de financiamiento en proyectos mineros
+
+![center](./img/EffectsEquity.png)
+
+## Estrategias de financiamiento en proyectos mineros
+
+![center h:480px](./img/EffectsDebt.png)
 
 ## Gestión de costos y control presupuestario
 
@@ -1787,24 +1889,21 @@ section {
 
 <div class="div">
  
+En minería, el control de costos no es simplemente un ejercicio de contabilidad, sino una necesidad de supervivencia. Con márgenes ajustados, precios volátiles y operaciones dispersas, los costos mal gestionados pueden erosionar rápidamente el valor de un activo.
+
+##### ¿Por qué es importante?
+
+- **Rentabilidad:** Costos bajos aseguran márgenes aceptables incluso en mercados adversos.
+- **Valoración de activos:** El retorno de los activos es altamente relevante a nivel corporativo
+- **Disciplina organizacional:** Promueve eficiencia, productividad y responsabilidad.
+
+> La gestión de costos efectiva requiere más que herramientas financieras: requiere cultura y disciplina. Los líderes que dominan el control presupuestario construyen operaciones resilientes, incluso en condiciones de mercado adversas.
+
 </div>
 
----
-<!-- _class: lastpage -->
-<!-- _footer: "" -->
+## Gestión de costos y control presupuestario
 
-###### Muchas gracias
-
-<div class="icons">
-
-- <i class="fa-brands fa-google"></i>
-  - ameresv@gmail.com
-- <i class="fa-brands fa-telegram"></i> 
-  - +51-956384450  
-- <i class="fa-brands fa-linkedin"></i> 
-  - Ali Meres
-
-<div>
+![center h:480px](./img/SourceProb.png)
 
 ## Optimización de costos en minería  
 <!-- _class: trans -->
@@ -1822,6 +1921,62 @@ section {
 - Identificación de áreas de mejora y reducción de costos
 - Optimización de procesos y uso de tecnología en la minería
 - Gestión de proveedores y contratos para la reducción de costos
+
+## Implementación de prácticas de eficiencia energética
+
+<style scoped>
+section {
+  row-gap: 0px; 
+}
+</style>
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+ 
+</div>
+
+## Identificación de áreas de mejora y reducción de costos
+
+<style scoped>
+section {
+  row-gap: 0px; 
+}
+</style>
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+ 
+</div>
+
+## Optimización de procesos y uso de tecnología en la minería
+
+<style scoped>
+section {
+  row-gap: 0px; 
+}
+</style>
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+ 
+</div>
+
+## Gestión de proveedores y contratos para la reducción de costos
+
+<style scoped>
+section {
+  row-gap: 0px; 
+}
+</style>
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+ 
+</div>
 
 ---
 <!-- _class: lastpage -->
