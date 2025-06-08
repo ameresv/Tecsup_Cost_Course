@@ -1993,6 +1993,67 @@ section {
 
 <div class="div">
  
+##### ¿Porque es importante?
+
+- Costo Oculto: Ineficiencias no detectadas consumen 15-25% del OPEX anual (ej: sobreconsumo energético, tiempos muertos en logística).
+- Riesgo Operativo: Fallas no corregidas generan paradas (>USD 1M/día en minas a rajo abierto).
+- Competitividad: Mineras con sistemas ágiles de mejora continua tienen 30%+ de margen frente a pares (Estudio McKinsey, 2024).
+
+##### ¿Cómo abordarlo?
+
+1. Análisis de Brechas con Benchmarking Sectorial
+   - Herramienta: Comparar KPIs vs. top 5 mineras en región (ej: costo por tonelada movida, disponibilidad de flota).
+   - Importancia: Detecta desviaciones antes de que generen pérdidas.
+
+</div>
+
+## Identificación de áreas de mejora y reducción de costos
+
+<style scoped>
+section {
+  row-gap: 0px; 
+}
+</style>
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+ 
+##### ¿Cómo abordarlo?
+
+2. Mapeo de Procesos End-to-End
+   - Foco: Identificar cuellos de botella (ej: demoras en aprobación de permisos, tiempos de carga en palas).
+   - Importancia: El 40% de las ineficiencias se originan en interfaces entre áreas (operaciones-logística-mantenimiento).
+
+3. Datos Operativos en Tiempo Real
+    - Tecnología clave: Sensores IoT + plataformas de analítica predictiva (ej: OSIsoft PI System).
+    - Importancia: Permite correlacionar variables (ej: vibración de molinos vs. consumo energético).
+
+</div>
+
+## Identificación de áreas de mejora y reducción de costos
+
+<style scoped>
+section {
+  row-gap: 50px; 
+}
+</style>
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+
+| **Técnica** | **Aplicación en Minería** | **Caso Éxito** |
+|:---:|:---:|:---:|
+| **VSM <br> (Value Stream Mapping)** | Mapear flujo de valor desde <br>extracción hasta puerto | Escondida (Chile): Redujo 18% <br>tiempo ciclo en planta |
+| **Análisis de Pareto** | Priorizar problemas por <br>impacto económico (80/20) | Teck (Canadá): Enfocó 70% recursos <br>en 5 fallas críticas de equipos |
+| **Simulación Digital** | Modelar escenarios en <br>gemelos digitales | Codelco: Optimizó rutas de <br>camiones (+12% productividad) |
+
+<br>
+
+> Marco de Trabajo recomendado: Ciclo de Mejora Continua (PDCA Adaptado a Minería)
+> "La minería del futuro no compite por recursos, sino por su capacidad de convertir datos en acciones de mejora rentables".
+ 
 </div>
 
 ## Optimización de procesos y uso de tecnología en la minería
@@ -2015,6 +2076,29 @@ section {
 
 <style scoped>
 section {
+  row-gap: 30px; 
+}
+</style>
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+ 
+##### Gestión de contratistas
+
+En minería, hasta el 70% del OPEX depende de contratistas (perforación, mantenimiento, logística). Una mala gestión genera:
+- Sobrecostos por ineficiencias, re-trabajos o penalizaciones.
+- Headcount descontrolado. La seguridad patrimonial se ve afectada, así tambien, alojamientos, comida, entre otros factores.
+- Riesgos de información. Filtraciones, aglomeraciones y amedentramientos del personal desplegado en campo.
+- Riesgos operativos: Paradas por incumplimientos de seguridad o calidad.
+- Desalineación de incentivos: Contratos por "horas hombre" sin vinculación a resultados.
+
+</div>
+
+## Gestión de proveedores y contratos
+
+<style scoped>
+section {
   row-gap: 0px; 
 }
 </style>
@@ -2022,6 +2106,40 @@ section {
 <!-- _class: fixedtitleA -->
 
 <div class="div">
+
+##### Estrategias Clave para Reducción de Costos
+Modelos de Pago por Desempeño (Performance-Based Contracting). Para esto es importante tener en cuenta la siguiente fórmula:
+
+`Pago = Costo Base + Bono por KPI alcanzados - Penalizaciones por fallas`
+
+Donde; KPIs críticos:
+- Disponibilidad de equipos (>95%).
+- Toneladas movidas por hora.
+- Incidentes de seguridad (0 tolerancia).
+  
+</div>
+
+## Gestión de proveedores y contratos
+
+<style scoped>
+section {
+  row-gap: 0px; 
+}
+</style>
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+
+##### Recomendaciones generales
+- Due Diligence antes del inicio del contrato
+  - Conocer al contratista es un paso clave antes de comenzar los trabajos.
+- Workshops de alineación técnica
+  - Alineación de expectativas y despeje de dudas técnicas.
+- Control en Tiempo Real con Digital Twin
+  - Seguimiento de indicadores clave de desempeño del contrato.
+- Auditorías Colaborativas de Costos:
+  - Revisiones previas antes de la valorización de servicios.
  
 </div>
 
