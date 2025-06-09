@@ -1815,6 +1815,30 @@ section {
 
 </div>
 
+## Importancia de las finanzas en la Industria Minera
+
+<style scoped>
+section {
+  row-gap: 0px; 
+}
+</style>
+
+<!-- _class: fixedtitleA -->
+
+<div class="div">
+
+Minería  es  una  industria  intensiva  en capital,  lo  que  significa  que  requiere grandes inversiones de dinero para explorar, desarrollar y operar minas.
+
+##### Principales decisiones financieras:
+- **Acceso  al  Capital**:  Sin  un financiamiento  adecuado,  las  empresas mineras no pueden llevar a cabo actividades fundamentales como la  exploración o desarrollo de nuevas minas. 
+- **Gestión  de  Costos  y  Eficiencia Operativa**:  La  capacidad de una empresa para gestionar eficazmente sus costos afecta directamente su rentabilidad. 
+- **Evaluación de Proyectos**: Las herramientas financieras son esenciales para decidir si un proyecto debe avanzar. 
+
+> Desafios específicos del reporte financiero en mineria: volatilidad de precios, ciclo de vida largo de los proyectos mineros (por diferencias en el tratamiento contable) y normativas y **cumplimiento en las juridiscciones múltiples.**
+
+
+</div>
+
 ## Planificación financiera a corto y largo plazo
 
 <style scoped>
@@ -1850,19 +1874,27 @@ La planificación financiera es la brújula que permite a las operaciones minera
 
 <style scoped>
 section {
-  row-gap: 20px; 
+  row-gap: 40px; 
 }
 </style>
 
 <!-- _class: cols-2 -->
 
-<div class=limg>
+<div class=ldiv>
+
+##### Funciones actuales de un equipo de finanzas en la industria minera. 
+
+La visión cambia respecto a lo tracional en distintos aspectos, entre los cuales, se destaca:
 
 ![h:250px](./img/FinManMin2.png)
 
 </div>
 
-<div class=rimg>
+<div class=rdiv>
+
+##### Objetivos del área
+
+Validaciones necesarias que deberán estar alienadas a la estrategia y visión corporativa para asegurar un papel crucial en la toma de decisiones 
 
 ![h:250px](./img/FinManMin3.png)
 
@@ -1899,6 +1931,93 @@ En minería, el control de costos no es simplemente un ejercicio de contabilidad
 > La gestión de costos efectiva requiere más que herramientas financieras: requiere cultura y disciplina. Los líderes que dominan el control presupuestario construyen operaciones resilientes, incluso en condiciones de mercado adversas.
 
 </div>
+
+## Gestión de costos y control presupuestario
+
+<style scoped>
+section {
+  row-gap: 20px; 
+}
+</style>
+
+<!-- _class: cols-2 -->
+
+<div class=ldiv>
+
+##### Análisis Horizontal - Tendencias
+**Se  comparan  las  mismas  líneas  contables  o  conceptos,  en distintos  periodos  de  tiempo**.  
+- Objetivo: Ver  la  evolución  y  se  pueden  comparar  dos  o más periodos (completos o parciales).
+- ¿Cómo?: Se calculan las diferencias positivas/incremento o negativas/decremento, entre los distintos periodos.
+
+Es  el  análisis  que  permite  determinar si  el  comportamiento  de  la  empresa  en un periodo fue bueno, regular o malo. 
+
+</div>
+
+<div class=rdiv>
+
+##### Mecanismo de cálculo
+
+- Variación absoluta: Para determinar dicha variación, se considera la misma partida en el EEFF, determinando el periodo 2 respecto al periodo 1.
+
+<center>
+
+$\text{Var. Abs} = Periodo_{2} - Periodo_{1}$
+
+</center>
+
+- Variación relativa: Para determinar dicha variación, se aplica una regla de tres.
+
+<center>
+
+$\text{Var. Rel} = (\frac{Periodo_{2}}{Periodo_{1}} - 1) \times 100$
+</center>
+
+</div>
+
+## Gestión de costos y control presupuestario
+
+![center h:480px](./img/AHorC.png)
+
+## Gestión de costos y control presupuestario
+
+<style scoped>
+section {
+  row-gap: 20px; 
+}
+</style>
+
+<!-- _class: cols-2 -->
+
+<div class=ldiv>
+
+##### Análisis Vertical - Estructural
+**Es  una  técnica  que  permite  conocer  el  peso  porcentual  de  cada  partida  de  los  estados financieros en un periodo determinado**.
+
+- Objetivo: determinar  comparaciones sobre un mismo periodo
+- ¿Cómo?: Indica la composición de las partidas dentro de los distintos estados financieros. Se calculan porcentajes sobre valores totales.
+
+</div>
+
+<div class=rdiv>
+
+##### Mecanismo de cálculo
+
+- Para realizar este análisis se divide cada partida que se desea analizar entre 
+el total que queremos medir.
+
+<center>
+
+$\text{Análisis Vertical} = (\frac{Partida}{Total}) \times 100$
+
+</center>
+
+Esta técnica nos permite verificar la situación financiera y de la cuenta de resultados y hacer comparaciones con otras empresas del mismo sector económico
+
+</div>
+
+## Gestión de costos y control presupuestario
+
+![center h:480px](./img/AVerC.png)
 
 ## Gestión de costos y control presupuestario
 
@@ -2056,6 +2175,38 @@ section {
  
 </div>
 
+## Efecto de la optimización de procesos
+
+<style scoped>
+section {
+  row-gap: 20px; 
+}
+</style>
+
+<!-- _class: cols-2 -->
+
+<div class=ldiv>
+
+##### Beneficios clave 
+
+- **Velocidad**: Al automatizar y estandarizar procesos, el tiempo necesario para consolidar y preparar los informes financieros se reduce considerablemente. 
+
+- **Precisión**: La optimización minimiza los errores manuales que suelen aparecer cuando se manejan grandes volúmenes de datos.
+
+- **Toma de decisiones**: La optimización asegura que los datos financieros estén disponibles de manera clara y estructurada
+
+</div>
+
+<div class=rdiv>
+
+##### Áreas impactadas 
+
+-  **Control de costos operativos:** Optimizar el proceso de reporting financiero ayuda a monitorear estos costos de manera detallada y a tiempo, permitiendo ajustes operativos.
+- **Seguimiento del rendimiento de los proyectos:** Comparar los resultados reales frente a los presupuestos y metas de producción. 
+- **Evaluación de riesgos financieros:** Tener informes más rápidos y precisos permite identificar riesgos financieros antes de que se conviertan en problemas críticos
+
+</div>
+
 ## Optimización de procesos y uso de tecnología en la minería
 
 ![center h:400px](./img/RetosDTMining.png)
@@ -2072,11 +2223,16 @@ section {
 <b> Figura: </b> Aplicación de gemelo digital en minería
 </figcaption>
 
-## Gestión de proveedores y contratos para la reducción de costos
+---
+
+![center h:600px](./img/MiningTech1.png)
+
+
+## Gestión de proveedores y contratos 
 
 <style scoped>
 section {
-  row-gap: 30px; 
+  row-gap: 0px; 
 }
 </style>
 
@@ -2110,7 +2266,11 @@ section {
 ##### Estrategias Clave para Reducción de Costos
 Modelos de Pago por Desempeño (Performance-Based Contracting). Para esto es importante tener en cuenta la siguiente fórmula:
 
-`Pago = Costo Base + Bono por KPI alcanzados - Penalizaciones por fallas`
+<center>
+
+$\text{Pago = Costo Base + Bono por KPI alcanzados - Penalizaciones por fallas}$
+
+</center>
 
 Donde; KPIs críticos:
 - Disponibilidad de equipos (>95%).
