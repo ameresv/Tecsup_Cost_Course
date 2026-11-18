@@ -65,11 +65,11 @@ Relacionar las decisiones de planta con el costo, la recuperación de metal y la
 </div>
 
 ## Agenda a desarrollar
-<!-- _class: fixedTitle -->
+<!-- _class: agenda_col2 -->
 
 <div class="div">
 
-- Proceso, estados financieros, OPEX y CAPEX
+- Proceso, EEFF , OPEX y CAPEX
 - Centros de costos y costo unitario
 - Chancado y molienda
 - Flotación, polimetálicos y lixiviación
@@ -99,8 +99,6 @@ Relacionar las decisiones de planta con el costo, la recuperación de metal y la
 | 00–30 min | Cadena de valor y decisiones OPEX/CAPEX |
 | 30–60 min | Resultado, balance y liquidez |
 | 60–90 min | Caja, inversiones y preparación del caso |
-
-<br>
 
 > Al finalizar: 30 minutos de receso y 60 minutos de caso.
 
@@ -166,8 +164,6 @@ Relacionar las decisiones de planta con el costo, la recuperación de metal y la
 | Flotación | ley y recuperación | ¿Cuánto metal pasa al concentrado? |
 | Venta | metal pagable y cargos | ¿Cuánto valor se reconoce? |
 
-<br>
-
 > Un cambio en una etapa puede afectar a las siguientes.
 
 <!-- Siga el recorrido de una tonelada desde la tolva hasta el producto. En molienda pregunte qué mediciones registrarían por turno: toneladas, consumo eléctrico y tamaño de producto. En flotación añada ley y recuperación; en venta, cantidad pagable y cargos. Una caída del costo de molienda puede coexistir con pérdida de recuperación. Relacione este vínculo con la pregunta cualitativa de la hoja 01 Negocio: asignar un recurso y una cuenta a cada etapa. No trate como dato real un cambio no medido. -->
@@ -176,13 +172,6 @@ Relacionar las decisiones de planta con el costo, la recuperación de metal y la
 
 ## OPEX vs CAPEX
 <!-- _class: fixedTitle -->
-
-<style scoped>
-  .espacio {
-    display: block;   /* Hace que ocupe una línea completa */
-    height: 10px;     /* Altura del espacio */
-  }
-</style>
 
 <div class="table-center">
 
@@ -194,8 +183,6 @@ Relacionar las decisiones de planta con el costo, la recuperación de metal y la
 | **Horizonte temporal** | Beneficios a largo plazo (>1 año). | Beneficios inmediatos (mes a mes). |
 | **Flexibilidad** | Decisiones estratégicas (poco frecuentes). | Ajustes operativos (mensual/trimestral). |
 | **Impacto en liquidez** | Gran desembolso inicial. | Desembolsos recurrentes y menores. |
-
-<span class="espacio"></span>
 
 > CAPEX construye el futuro; OPEX sostiene el presente:  Ya que, sin CAPEX adecuado, la mina pierde competitividad a largo plazo. Sin control de OPEX, los márgenes se erosionan
 
@@ -212,8 +199,6 @@ Relacionar las decisiones de planta con el costo, la recuperación de metal y la
 | Ejemplo | Energía, reactivos, rutina | Molino nuevo o componente mayor elegible |
 | Registro | Consumo, inventario o gasto | Activo, si cumple criterios |
 | Caja | Desembolso según pago | Desembolso según cronograma |
-
-<br>
 
 > La clasificación final depende de los hechos y de la política contable aplicable.
 
@@ -318,7 +303,7 @@ Después se reconocen otros gastos e ingresos, resultados financieros e impuesto
 | Depreciación en costo de ventas | 426,6 |
 | **Utilidad bruta** | **553,8** |
 
-553,8 / 2.021,2 = **27,40 % de margen bruto**.
+> 553,8 / 2.021,2 = **27,40 % de margen bruto**.
 
 ###### Fuente: [Hudbay, estados consolidados 2024–2025](https://www.sec.gov/Archives/edgar/data/1322422/000106299326001113/exhibit99-1.htm). No corresponde exclusivamente a Perú.
 
@@ -487,6 +472,23 @@ La tasa de descuento debe ser consistente con la moneda, el riesgo y el tipo de 
 > ¿Una mejora del margen permite concluir que mejoró la liquidez?
 
 <!-- Cuidar el perímetro: consolidado y segmento Perú aparecen separados. Los equipos registran las respuestas en las celdas amarillas. -->
+
+</div>
+
+---
+<!-- _class: last-slide -->
+<!-- _footer: "" -->
+
+###### Muchas gracias
+
+<div class="icons">
+
+- <i class="fa-brands fa-google"></i>
+  - ameresv@gmail.com
+- <i class="fa-brands fa-telegram"></i> 
+  - +51956384450  
+- <i class="fa-brands fa-linkedin"></i> 
+  - Ali Meres
 
 </div>
 
@@ -823,6 +825,23 @@ Un cociente sin estas referencias puede inducir una decisión equivocada.
 
 </div>
 
+---
+<!-- _class: last-slide -->
+<!-- _footer: "" -->
+
+###### Muchas gracias
+
+<div class="icons">
+
+- <i class="fa-brands fa-google"></i>
+  - ameresv@gmail.com
+- <i class="fa-brands fa-telegram"></i> 
+  - +51956384450  
+- <i class="fa-brands fa-linkedin"></i> 
+  - Ali Meres
+
+</div>
+
 ## Sesión 03: Chancado y Molienda
 
 <!-- _class: trans -->
@@ -878,9 +897,7 @@ La respuesta depende del mineral y se verifica con datos y ensayos.
 
 <div class="image-center">
 
-![#c h:400px](./img/Beneficio1.png)
-
-###### Esquema de la presentación de referencia facilitada por el docente. El circuito real depende de la operación.
+![#c h:450px](./img/Beneficio1.png)
 
 </div>
 
@@ -1137,6 +1154,24 @@ La comparación debe considerar el **margen incremental**, no solo el consumo el
 > ¿Qué información falta para conocer el costo real de las bolas de la concentradora?
 
 </div>
+
+---
+<!-- _class: last-slide -->
+<!-- _footer: "" -->
+
+###### Muchas gracias
+
+<div class="icons">
+
+- <i class="fa-brands fa-google"></i>
+  - ameresv@gmail.com
+- <i class="fa-brands fa-telegram"></i> 
+  - +51956384450  
+- <i class="fa-brands fa-linkedin"></i> 
+  - Ali Meres
+
+</div>
+
 
 ## Sesión 04: Flotación, polimetálicos y LESDE
 <!-- _class: trans -->

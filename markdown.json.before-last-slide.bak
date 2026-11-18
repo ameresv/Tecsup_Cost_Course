@@ -1,0 +1,200 @@
+{
+	"Fixed title image": {
+    "prefix": "fxti",
+    "body": [
+		"## Title",
+		"",
+		"<style scoped>",
+		"section {",
+		"  row-gap: 0px; ",
+		"}",
+		"</style>",
+		"",
+		"<!-- _class: fixedtitleA -->",
+		"",
+		"<div class=\"div\">",
+		"",
+		"![center]()",
+		"",
+		"<figcaption align=\"center\">",
+		"<b> Figura: </b> text",
+		"</figcaption>",
+		" ",
+		"</div>"
+	],
+    "description": "define fixed title slide with image and caption"
+	},
+	
+	"Fixed title": {
+    "prefix": "fxt",
+    "body": [
+		"## Title",
+		"",
+		"<style scoped>",
+		"section {",
+		"  row-gap: 0px; ",
+		"}",
+		"</style>",
+		"",
+		"<!-- _class: fixedtitleA -->",
+		"",
+		"<div class=\"div\">",
+		" ",
+		"</div>"
+	],
+    "description": "define fixed title slide"
+	},
+
+	"FigCaption": {
+	"prefix":"fct",
+	"body": [
+		"",
+		"<figcaption align=\"center\">",
+		"<b> Figura: </b> text",
+		"</figcaption>",
+		""
+	],
+	"description": "insert figure caption"
+	},
+
+	"Images": {
+	"prefix":"ima",
+	"body": [
+		"![#c h:450px]()"	
+	],
+	"description": "insert a centered image"
+	},
+
+  	"ThreePartSlide":{
+	"prefix":"tps",
+	"body": [
+		"## Title",
+		"",
+		"<!-- _class: pin-3 -->",
+		"",
+		"<div class=\"tdiv\">",
+		"",
+		"",
+		"",
+		"</div>",
+		"",
+		"<div class=\"limg\">",
+		"",
+		"",
+		"",
+		"</div>",
+		"",
+		"<div class=\"rimg\">",
+		"",
+		"",
+		"",
+		"</div>"
+	],
+	"description": "insert a three part slide"
+	},
+	
+  "TwoColsSlideI": {
+		"prefix": "tclsi",
+		"body": [
+		"## Title",
+		"",
+		"<style scoped>",
+		"section {",
+		"  row-gap: 20px; ",
+		"}",
+		"</style>",
+		"",
+		"<!-- _class: cols-2 -->",
+			"",
+			"<div class=limg>",
+			"",
+			"![h:350px]()",
+			"",
+			"</div>",
+			"",
+			"<div class=rimg>",
+			"",
+			"![h:350px]()",
+			"",
+			"</div>"
+		],
+		"description": "insert two columns slide with images"
+	},
+
+	"TwoColsSlide": {
+		"prefix": "tcls",
+		"body": [
+		"## Title",
+		"",
+		"<style scoped>",
+		"section {",
+		"  row-gap: 20px; ",
+		"}",
+		"</style>",
+		"",
+		"<!-- _class: cols-2 -->",
+			"",
+			"<div class=ldiv>",
+			"",
+			"</div>",
+			"",
+			"<div class=rdiv>",
+			"",
+			"</div>"
+		],
+		"description": "insert two columns slide"
+	},
+
+	"LastSlide" : {
+		"prefix": "lsld",
+		"body": [
+			"---",
+			"<!-- _class: lastpage -->",
+			"<!-- _footer: \"\" -->",
+			"",
+			"###### Muchas gracias",
+			"",
+			"<div class=\"icons\">",
+			"",
+			"- <i class=\"fa-brands fa-google\"></i>",
+			"  - ameresv@gmail.com",
+			"- <i class=\"fa-brands fa-telegram\"></i> ",
+			"  - +51-956384450  ",
+			"- <i class=\"fa-brands fa-linkedin\"></i> ",
+			"  - Ali Meres",
+			"",
+			"<div>"
+		],
+		"description": "insert the last slide"
+	},
+
+	"First Slide" : {
+		"prefix": "fsld",
+		"body": [
+			"<style>",
+			"  img[alt~='center'] {",
+			"    display: block;",
+			"    margin-left: auto;",
+			"    margin-right: auto;",
+			"  }",
+			"</style>",
+			"",
+			"<style scoped>",
+			"section.cover_d footer {",
+			"  font-size: 20pt;",
+			"  left: 50%;",
+			"}",
+			"</style>",
+			"",
+			"# Título de la presentación",
+			"",
+			"###### Subtítulo de presentación ",
+			"",
+			"Ing. Ali Meres ",
+			"Ingeniero de Minas UNI - CIP ",
+			"Business Analytics Technical Lead @ Astay Systems - AAQ",
+			"Contacto adicional：[LinkedIn](https://www.linkedin.com/in/ali-ivan-meres-vargas/)- ameresv@gmail.com"
+		],
+		"description": "Añade la primera slide de la presentación"
+	}
+}

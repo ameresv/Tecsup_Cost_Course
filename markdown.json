@@ -149,7 +149,7 @@
 		"prefix": "lsld",
 		"body": [
 			"---",
-			"<!-- _class: lastpage -->",
+			"<!-- _class: last-slide -->",
 			"<!-- _footer: \"\" -->",
 			"",
 			"###### Muchas gracias",
@@ -163,7 +163,7 @@
 			"- <i class=\"fa-brands fa-linkedin\"></i> ",
 			"  - Ali Meres",
 			"",
-			"<div>"
+			"</div>"
 		],
 		"description": "insert the last slide"
 	},
