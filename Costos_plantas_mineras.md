@@ -275,6 +275,51 @@ Relacionar las decisiones de planta con el costo, la recuperación de metal y la
 
 </div> 
 
+## Estados Financieros
+<!-- _class: cols-3 -->
+
+<style scoped>
+  section.cols-3 {
+    grid-template-rows: 8% 15% 75%;
+  }
+</style>
+
+<div class="desc">
+
+Los datos que proporcionan los sistemas contables son organizados y reportados a la gerenia en forma de Estados Financieros.
+
+</div> 
+
+<div class="ldiv">
+
+### Balance General 
+
+¿Qué tengo, qué debo y qué obligaciones de cierre me esperan?
+
+Uso: evalúa liquidez y capacidad de financiar proyectos. **Es lo primero que revisan bancos y prestamistas**.
+
+</div> 
+
+<div class="mdiv">
+
+### Estado de Resultados 
+
+¿Gano dinero con cada tonelada que produzco?
+
+Limitación: incluye partidas que no son caja, como **depreciación o deterioros de activos**, que pueden distorsionar la lectura de la operación.
+
+</div> 
+
+<div class="rdiv">
+
+### Flujo de Caja 
+
+¿Cuánta caja genero y para qué me alcanza?
+
+Uso: el flujo de caja libre es la base de la valorización (VAN, TIR, DCF). En un ciclo bajo de precios, **determina si la operación sobrevive**.
+
+</div> 
+
 ## Estado de resultados
 <!-- _class: fixedTitle -->
 
@@ -287,6 +332,33 @@ Relacionar las decisiones de planta con el costo, la recuperación de metal y la
 Después se reconocen otros gastos e ingresos, resultados financieros e impuesto para llegar al resultado neto.
 
 <!-- Pida que identifiquen qué magnitudes son del período y cuáles no representan necesariamente cobros o pagos. -->
+
+</div>
+
+## Estado de resultados
+<!-- _class: fixedTitle -->
+
+<div class="image-center">
+
+![w:1200](./img/ee_rr.png)
+
+</div>
+
+## Estado de resultados
+<!-- _class: fixedTitle -->
+
+<div class="image-center">
+
+![w:1000](./img/ventas.png)
+
+</div>
+
+## Estado de resultados
+<!-- _class: fixedTitle -->
+
+<div class="image-center">
+
+![w:1200](./img/cost_inv.png)
 
 </div>
 
@@ -341,6 +413,15 @@ No mezclar este cálculo consolidado con las cifras del segmento Perú.
 - Propiedad, planta y equipo: activos netos de depreciación y deterioros acumulados, según corresponda.
 
 <!-- El balance muestra saldos al cierre; el estado de resultados y el flujo de efectivo cubren un período. -->
+
+</div>
+
+## Balance de Resultados
+<!-- _class: fixedTitle -->
+
+<div class="image-center">
+
+![h:500](./img/balance.png)
 
 </div>
 
@@ -410,6 +491,15 @@ El detalle de las partidas explica la calidad de la liquidez.
 | Caja operativa menos PPE pagado | ¿Qué subtotal parcial queda? |
 
 ###### Este subtotal no equivale automáticamente al flujo de caja libre definido por la empresa.
+
+</div>
+
+## Goodwill
+<!-- _class: fixedTitle -->
+
+<div class="image-center">
+
+![h:500](./img/goodwill.png)
 
 </div>
 
@@ -517,9 +607,15 @@ La tasa de descuento debe ser consistente con la moneda, el riesgo y el tipo de 
 
 <div class="div">
 
-Un **objeto de costo** es aquello que queremos medir: una etapa, un producto, una orden o una tonelada procesada.
+### Costo
 
-El registro debe indicar período, centro responsable, cuenta, cantidad física y moneda.
+Se define como el dinero o valor sacrificado para adquirir bienes o servicios, con el objetivo de obtener un beneficio.
+
+**Objeto de costo** es aquello que queremos medir: una etapa, un producto, una orden o una tonelada procesada. 
+
+### Gasto
+
+Se le define como un costo que ha producido un beneficio y que ha expirado. Costo expirado = Gasto. **Los costos no expirados** que pueden dar beneficios futuros se clasifican como **activos**. Ej.: bolas de acero en almacén.
 
 <!-- Un mismo recurso puede analizarse por naturaleza, por centro responsable o por comportamiento con el volumen. -->
 
@@ -528,13 +624,13 @@ El registro debe indicar período, centro responsable, cuenta, cantidad física 
 ## Costo vs gasto
 <!-- _class: fixedTitle -->
 
-<div class="div">
+<div class="image-center">
 
-  Completar con las diferencias entre costo y gasto, incluir ejemplos
-
-<!-- Un mismo recurso puede analizarse por naturaleza, por centro responsable o por comportamiento con el volumen. -->
+![h:500](./img/costvsgast.png)
 
 </div>
+
+<!-- Un mismo recurso puede analizarse por naturaleza, por centro responsable o por comportamiento con el volumen. -->
 
 ## Un mismo recurso, varias preguntas
 <!-- _class: fixedTitle -->
@@ -660,6 +756,15 @@ El control de cierre compara la suma asignada con el costo total a distribuir.
 - El **costeo por procesos** acumula costos por etapa durante un período y los relaciona con la producción de esa etapa.
 - El **costeo basado en actividades** atribuye recursos a actividades y usa conductores para distribuirlos.
 - La elección depende del objetivo, los datos y el costo de mantener el modelo.
+
+</div>
+
+## Costeo por procesos y por actividades
+<!-- _class: fixedTitle -->
+
+<div class="image-center">
+
+![h:500](./img/tipo_costeo.png)
 
 </div>
 
@@ -822,6 +927,16 @@ Un cociente sin estas referencias puede inducir una decisión equivocada.
 
 > ¿Un menor gasto total implica necesariamente un menor US\$/t?
 
+</div>
+
+## Estrategia en costos
+<!-- _class: fixedTitle -->
+
+<div class="div">
+
+En la industria minera, la gestión de los costos es **la estrategia competitiva** que mayor garantía puede ofrecer para lograr **resultados positivos** en un sector que depende directamente de los precios de los metales que se cotizan internacionalmente.
+
+De allí que los costos en la actividad minera deben de ser calificados como *estratégicos*, pues las decisiones que se tomen en torno a ellos tendrán impacto sobre la **viabilidad de la operación**.
 
 </div>
 
@@ -872,6 +987,15 @@ Un cociente sin estas referencias puede inducir una decisión equivocada.
 Reducir el tamaño del mineral para permitir la liberación de las especies de interés y alimentar la etapa posterior.
 
 La decisión debe considerar **energía, medios de molienda, desgaste y desempeño metalúrgico**, además de toneladas por hora.
+
+</div>
+
+## Retos y principales *cost drivers*
+<!-- _class: fixedTitle -->
+
+<div class="image-center">
+
+![h:500](./img/con_ret_cd.png)
 
 </div>
 
@@ -1155,6 +1279,20 @@ La comparación debe considerar el **margen incremental**, no solo el consumo el
 
 </div>
 
+## Estrategias de costos - Conminución
+<!-- _class: fixedTitle -->
+
+<div class="table-center">
+
+| Estrategia | Palanca de ahorro | Impacto reportado | Cost driver |
+|---|---|---|---|
+| HPGR en lugar de molino SAG | Menor energía en molienda primaria | Hasta 30% de energía (dato del proveedor) | kWh por tonelada |
+| Preconcentración y ore sorting | Rechazo temprano de estéril; menos mineral a moler | No cuantificado | Toneladas a moler por unidad de metal |
+| Control avanzado de procesos (APC) | Menor sobremolienda y energía desperdiciada | No cuantificado | P80 objetivo, kWh por tonelada |
+
+</div>
+
+
 ---
 <!-- _class: last-slide -->
 <!-- _footer: "" -->
@@ -1203,8 +1341,8 @@ La comparación debe considerar el **margen incremental**, no solo el consumo el
 
 | Ruta | Producto de la planta | Variables de interés |
 |---|---|---|
-| Concentración por flotación | Concentrado de cobre | Ley, recuperación, reactivos |
-| Lixiviación, extracción por solventes y electrodeposición | Cátodo de cobre | Cinética, ácido, recuperación, energía |
+| Concentración por <br> flotación | Concentrado de cobre | Ley, recuperación, reactivos |
+| Lixiviación, extracción por solventes <br> y electrodeposición | Cátodo de cobre | Cinética, ácido, recuperación, energía |
 
 La ruta elegida depende de las características del mineral y del diseño de la operación.
 
@@ -1214,13 +1352,9 @@ La ruta elegida depende de las características del mineral y del diseño de la 
 ## Ejemplo de circuito de concentrados Cu–Mo
 <!-- _class: fixedTitle -->
 
-<div class="div">
+<div class="image-center">
 
-
-![#c h:480px](./img/Beneficio3.png)
-
-###### Esquema de la presentación de referencia facilitada por el docente; no representa la única configuración posible.
-
+![h:550px](./img/Beneficio3.png)
 
 </div>
 
@@ -1543,7 +1677,7 @@ Cada referencia responde una pregunta distinta. No se deben presentar sus parám
 
 </div>
 
-## Sesión 05
+## Sesión 05: Presupuesto y variaciones
 <!-- _class: fixedTitle -->
 
 <div class="div">
@@ -1553,16 +1687,13 @@ Cada referencia responde una pregunta distinta. No se deben presentar sus parám
 <!-- _paginate: false -->
 <!-- _footer: '' -->
 
-Presupuesto y variaciones
-
 
 </div>
 
 ## Sesión 05: ruta de teoría
 <!-- _class: fixedTitle -->
 
-<div class="div">
-
+<div class="table-center">
 
 | Tiempo | Desarrollo |
 |---|---|
@@ -1570,7 +1701,7 @@ Presupuesto y variaciones
 | 25–65 min | Puente de volumen, eficiencia y precio |
 | 65–90 min | Ejemplo resuelto y aplicación a insumos |
 
-###### Al finalizar: 30 minutos de receso y 60 minutos de caso.
+Al finalizar: 30 minutos de receso y 60 minutos de caso.
 
 
 </div>

@@ -826,7 +826,7 @@ section.last-slide  {
   background: linear-gradient(to bottom, white 0 30%, var(--color-coverbg) 30% 70%, white 70% 100%);
   padding: 0;
   display: grid;
-  grid-template-rows: 10% 45% 0%;
+  grid-template-rows: 0% 45% 0%;
   grid-template-columns: auto;
   grid-template-areas: 
       "."
