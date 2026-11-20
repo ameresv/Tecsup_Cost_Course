@@ -697,7 +697,6 @@ Identificación y comportamiento responden preguntas distintas.
 
 <!-- La palabra directo responde a si un recurso puede trazarse al objeto de costo. Fijo o variable responde a cómo cambia el costo ante un conductor en un rango y periodo. Por ejemplo, la energía medida puede ser directa al molino, pero incluir demanda contratada y consumo que responden de modo distinto al volumen. Pida que justifiquen cada clasificación y señalen qué datos faltan. No concluya la proporción fija o variable con el reporte resumido del caso. -->
 
-
 </div>
 
 ## Fijo, variable o mixto
@@ -713,7 +712,6 @@ Identificación y comportamiento responden preguntas distintas.
 | Mixto | Contiene componentes fijos y variables |
 
 > El costo fijo por tonelada suele aumentar cuando baja el tonelaje, aun si el gasto total no cambia.
-
 
 </div>
 
@@ -799,7 +797,6 @@ El signo del ajuste depende de la presentación de la fuente.
 
 <!-- Explique la diferencia entre costo incurrido para producir y costo del producto vendido. Si al cierre aumenta el inventario de concentrado, el movimiento puede modificar el costo de ventas respecto del costo incurrido, sujeto a la política contable y los demás ajustes. En la hoja 02 se muestra un ajuste de inventario con su signo tal como aparece en la conciliación de la fuente. No cambie el signo por intuición: verifique el puente publicado y los registros. -->
 
-
 </div>
 
 ## El denominador cambia la lectura
@@ -816,7 +813,6 @@ El signo del ajuste depende de la presentación de la fuente.
 | US\$/lb Cu producido | Costo respecto al metal obtenido |
 
 Antes de comparar, verifique período, humedad, etapa, moneda y costos incluidos.
-
 
 </div>
 
@@ -957,6 +953,48 @@ De allí que los costos en la actividad minera deben de ser calificados como *es
 
 </div>
 
+# Costos en plantas minero metalúrgicas
+
+###### Una mirada ejecutiva al negocio minero
+
+<!-- _class: cover -->
+<!-- _paginate: "" -->
+<!-- _footer: Presentacion preparada para TECSUP -->
+
+<style>
+  img[alt~='center'] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
+
+<style scoped>
+section.cover_d footer {
+  font-size: 20pt;
+  left: 50%;
+}
+</style>
+
+Ing. Alí Meres 
+Ingeniero de Minas UNI - CIP 
+Business Analytics Technical Lead @ Astay Systems
+Contacto adicional：[LinkedIn](https://www.linkedin.com/in/ali-ivan-meres-vargas/)- ameresv\@gmail.com
+
+## Agenda a desarrollar
+<!-- _class: agenda_col2 -->
+
+<div class="div">
+
+- Proceso, EEFF , OPEX y CAPEX
+- Centros de costos y costo unitario
+- Chancado y molienda
+- Flotación, polimetálicos y lixiviación
+- Presupuesto y variaciones PVE
+- Mantenimiento y árbol de valor
+- Liquidación de concentrados y NSR
+- Rentabilidad, equilibrio e indicadores
+
 ## Sesión 03: Chancado y Molienda
 
 <!-- _class: trans -->
@@ -987,6 +1025,15 @@ De allí que los costos en la actividad minera deben de ser calificados como *es
 Reducir el tamaño del mineral para permitir la liberación de las especies de interés y alimentar la etapa posterior.
 
 La decisión debe considerar **energía, medios de molienda, desgaste y desempeño metalúrgico**, además de toneladas por hora.
+
+</div>
+
+## Retos principales 
+<!-- _class: fixedTitle -->
+
+<div class="image-center">
+
+![h:500](./img/conm_1.png)
 
 </div>
 
@@ -1022,6 +1069,33 @@ La respuesta depende del mineral y se verifica con datos y ensayos.
 <div class="image-center">
 
 ![#c h:450px](./img/Beneficio1.png)
+
+</div>
+
+## Alternativas de circuito 
+<!-- _class: fixedTitle -->
+
+<div class="image-center">
+
+![h:500](./img/chan_1.png)
+
+</div>
+
+## Alternativas de circuito 
+<!-- _class: fixedTitle -->
+
+<div class="image-center">
+
+![h:500](./img/chan_2.png)
+
+</div>
+
+## Alternativas de circuito 
+<!-- _class: fixedTitle -->
+
+<div class="image-center">
+
+![h:500](./img/chan_3.png)
 
 </div>
 
@@ -1153,6 +1227,77 @@ Antes de llamar real al costo, solicitar:
 ###### Fuentes: [Buenaventura, informe San Gabriel 2024](https://www.sec.gov/Archives/edgar/data/1013131/000141057825001056/tmb-20241231xex96d2.pdf).
 
 <!-- Distinga el dato físico de Cuajone del parámetro económico del estudio San Gabriel. La multiplicación entrega una valoración didáctica, no una factura ni el gasto contratado por la concentradora de cobre. Pregunte cómo incidirían los cargos por potencia, las horas de consumo y la medición por circuito; las condiciones concretas dependen del contrato. Reserve para el taller el cálculo de la valoración en ambas columnas. -->
+
+</div>
+
+## Alternativas de molienda
+<!-- _class: fixedTitle -->
+
+<div class="image-center">
+
+![h:500](./img/mol_1.png)
+
+</div>
+
+## Alternativas en la molienda
+<!-- _class: fixedTitle -->
+
+<style scoped>
+  section.fixedTitle .table-center {
+    margin-top: -50px
+  }
+</style>
+
+<div class="table-center">
+
+| Criterio | Molino de barras | Molino AG | Molino SAG |
+|---|---|---|---|
+| Operación | Húmedo (overflow) o mayormente seco (descarga periférica) | Húmedo o seco | Húmedo o seco |
+| Etapa | Molienda gruesa; primario en plantas de menos de 200 t/h | Primaria, gruesa (hasta 400 mm) | Primaria, gruesa (hasta 400 mm) |
+| Medio de molienda | Barras | La propia alimentación | Alimentación más 4–18% de bolas |
+| Capacidad | Alta (descarga periférica) | Alta | Mayor que el AG |
+| Sensibilidad a la alimentación | — | Sensible | Menos sensible que el AG |
+| Rasgo clave | Granulometría estrecha, sin descarga por parrilla | Tiempo de retención corto | Tiempo de retención corto |
+</div>
+
+## Alternativas en la molienda
+<!-- _class: fixedTitle -->
+
+<style scoped>
+  section.fixedTitle .table-center {
+    margin-top: -50px
+  }
+</style>
+
+<div class="table-center">
+
+| Criterio | Bolas (overflow) | Bolas (parrilla) | Guijarros | Rodamientos de rodillos |
+|---|---|---|---|---|
+| Operación | Solo húmedo | Seco o húmedo | Húmedo o seco | Húmedo o seco |
+| Descarga | Overflow | Parrilla | Siempre parrilla | Overflow o parrilla |
+| Etapa | Secundaria | Secundaria | Secundaria | — |
+| Molienda | Más fina | Más gruesa | — | — |
+| Medio de molienda | Bolas (35–40%) | Bolas (admite 5–10% más) | Guijarros, sílex, porcelana o Al₂O₃ | — |
+| Sobremolienda | Mayor riesgo | Menor riesgo | — | — |
+| Rasgo clave | Robusto y simple | Descarga más compleja | Sin contaminación metálica | Simple, económico, menor capacidad |
+
+</div>
+
+## Alternativas de molienda
+<!-- _class: fixedTitle -->
+
+<div class="image-center">
+
+![h:500](./img/mol_2.png)
+
+</div>
+
+## Alternativas de molienda
+<!-- _class: fixedTitle -->
+
+<div class="image-center">
+
+![h:500](./img/mol_3.png)
 
 </div>
 
@@ -1310,6 +1455,47 @@ La comparación debe considerar el **margen incremental**, no solo el consumo el
 
 </div>
 
+# Costos en plantas minero metalúrgicas
+
+###### Una mirada ejecutiva al negocio minero
+
+<!-- _class: cover -->
+<!-- _paginate: "" -->
+<!-- _footer: Presentacion preparada para TECSUP -->
+
+<style>
+  img[alt~='center'] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
+
+<style scoped>
+section.cover_d footer {
+  font-size: 20pt;
+  left: 50%;
+}
+</style>
+
+Ing. Alí Meres 
+Ingeniero de Minas UNI - CIP 
+Business Analytics Technical Lead @ Astay Systems
+Contacto adicional：[LinkedIn](https://www.linkedin.com/in/ali-ivan-meres-vargas/)- ameresv\@gmail.com
+
+## Agenda a desarrollar
+<!-- _class: agenda_col2 -->
+
+<div class="div">
+
+- Proceso, EEFF , OPEX y CAPEX
+- Centros de costos y costo unitario
+- Chancado y molienda
+- Flotación, polimetálicos y lixiviación
+- Presupuesto y variaciones PVE
+- Mantenimiento y árbol de valor
+- Liquidación de concentrados y NSR
+- Rentabilidad, equilibrio e indicadores
 
 ## Sesión 04: Flotación, polimetálicos y LESDE
 <!-- _class: trans -->
@@ -1329,7 +1515,6 @@ La comparación debe considerar el **margen incremental**, no solo el consumo el
 | 60–90 min | LESDE, bases de costo y preparación del caso |
 
 ###### Al finalizar: 30 minutos de receso y 60 minutos de caso.
-
 
 </div>
 
@@ -1536,7 +1721,6 @@ Cada metal tiene su propia ley, recuperación, destino y condición comercial. U
 
 No se calcula recuperación de zinc si falta la ley de zinc en la alimentación o una medición equivalente del metal alimentado.
 
-
 </div>
 
 ## Ejemplo separado: operación polimetálica
@@ -1624,7 +1808,6 @@ El periodo y el denominador difieren.
 
 La recuperación, el tiempo y la mineralogía son relevantes para interpretar los costos.
 
-
 </div>
 
 ## Reactivos y energía: preguntas de gestión
@@ -1674,8 +1857,66 @@ Cada referencia responde una pregunta distinta. No se deben presentar sus parám
 
 > ¿Qué mediciones adicionales permiten cerrar el balance de metal?
 
+</div>
+
+---
+<!-- _class: last-slide -->
+<!-- _footer: "" -->
+
+###### Muchas gracias
+
+<div class="icons">
+
+- <i class="fa-brands fa-google"></i>
+  - ameresv@gmail.com
+- <i class="fa-brands fa-telegram"></i> 
+  - +51956384450  
+- <i class="fa-brands fa-linkedin"></i> 
+  - Ali Meres
 
 </div>
+
+# Costos en plantas minero metalúrgicas
+
+###### Una mirada ejecutiva al negocio minero
+
+<!-- _class: cover -->
+<!-- _paginate: "" -->
+<!-- _footer: Presentacion preparada para TECSUP -->
+
+<style>
+  img[alt~='center'] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
+
+<style scoped>
+section.cover_d footer {
+  font-size: 20pt;
+  left: 50%;
+}
+</style>
+
+Ing. Alí Meres 
+Ingeniero de Minas UNI - CIP 
+Business Analytics Technical Lead @ Astay Systems
+Contacto adicional：[LinkedIn](https://www.linkedin.com/in/ali-ivan-meres-vargas/)- ameresv\@gmail.com
+
+## Agenda a desarrollar
+<!-- _class: agenda_col2 -->
+
+<div class="div">
+
+- Proceso, EEFF , OPEX y CAPEX
+- Centros de costos y costo unitario
+- Chancado y molienda
+- Flotación, polimetálicos y lixiviación
+- Presupuesto y variaciones PVE
+- Mantenimiento y árbol de valor
+- Liquidación de concentrados y NSR
+- Rentabilidad, equilibrio e indicadores
 
 ## Sesión 05: Presupuesto y variaciones
 <!-- _class: fixedTitle -->
@@ -2056,20 +2297,72 @@ Con las seis entradas, la hoja calcula el puente y un control de conciliación.
 
 </div>
 
-## Sesión 06
-<!-- _class: fixedTitle -->
+---
+<!-- _class: last-slide -->
+<!-- _footer: "" -->
+
+###### Muchas gracias
+
+<div class="icons">
+
+- <i class="fa-brands fa-google"></i>
+  - ameresv@gmail.com
+- <i class="fa-brands fa-telegram"></i> 
+  - +51956384450  
+- <i class="fa-brands fa-linkedin"></i> 
+  - Ali Meres
+
+</div>
+
+# Costos en plantas minero metalúrgicas
+
+###### Una mirada ejecutiva al negocio minero
+
+<!-- _class: cover -->
+<!-- _paginate: "" -->
+<!-- _footer: Presentacion preparada para TECSUP -->
+
+<style>
+  img[alt~='center'] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
+
+<style scoped>
+section.cover_d footer {
+  font-size: 20pt;
+  left: 50%;
+}
+</style>
+
+Ing. Alí Meres 
+Ingeniero de Minas UNI - CIP 
+Business Analytics Technical Lead @ Astay Systems
+Contacto adicional：[LinkedIn](https://www.linkedin.com/in/ali-ivan-meres-vargas/)- ameresv\@gmail.com
+
+## Agenda a desarrollar
+<!-- _class: agenda_col2 -->
 
 <div class="div">
 
+- Proceso, EEFF , OPEX y CAPEX
+- Centros de costos y costo unitario
+- Chancado y molienda
+- Flotación, polimetálicos y lixiviación
+- Presupuesto y variaciones PVE
+- Mantenimiento y árbol de valor
+- Liquidación de concentrados y NSR
+- Rentabilidad, equilibrio e indicadores
+
+</div>
+
+## Sesión 06: Mantenimiento y árbol de valor
 
 <!-- _class: trans -->
 <!-- _paginate: false -->
 <!-- _footer: '' -->
-
-Mantenimiento y árbol de valor
-
-
-</div>
 
 ## Sesión 06: ruta de teoría
 <!-- _class: fixedTitle -->
@@ -2093,11 +2386,9 @@ Mantenimiento y árbol de valor
 
 <div class="div">
 
-
 El mantenimiento consume recursos y también influye en la disponibilidad y la estabilidad de producción.
 
 Para evaluar una intervención se comparan costos y consecuencias esperadas: duración de parada, riesgo de falla, repuestos y posible impacto en el proceso.
-
 
 </div>
 
@@ -2400,21 +2691,77 @@ Los equipos calcularán US\$/t y kg Cu/t para cada año.
 
 > ¿Qué evidencia permitiría distinguir una falla de una parada programada?
 
+</div>
+
+---
+<!-- _class: last-slide -->
+<!-- _footer: "" -->
+
+###### Muchas gracias
+
+<div class="icons">
+
+- <i class="fa-brands fa-google"></i>
+  - ameresv@gmail.com
+- <i class="fa-brands fa-telegram"></i> 
+  - +51956384450  
+- <i class="fa-brands fa-linkedin"></i> 
+  - Ali Meres
 
 </div>
 
-## Sesión 07
+# Costos en plantas minero metalúrgicas
+
+###### Una mirada ejecutiva al negocio minero
+
+<!-- _class: cover -->
+<!-- _paginate: "" -->
+<!-- _footer: Presentacion preparada para TECSUP -->
+
+<style>
+  img[alt~='center'] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
+
+<style scoped>
+section.cover_d footer {
+  font-size: 20pt;
+  left: 50%;
+}
+</style>
+
+Ing. Alí Meres 
+Ingeniero de Minas UNI - CIP 
+Business Analytics Technical Lead @ Astay Systems
+Contacto adicional：[LinkedIn](https://www.linkedin.com/in/ali-ivan-meres-vargas/)- ameresv\@gmail.com
+
+## Agenda a desarrollar
+<!-- _class: agenda_col2 -->
+
+<div class="div">
+
+- Proceso, EEFF , OPEX y CAPEX
+- Centros de costos y costo unitario
+- Chancado y molienda
+- Flotación, polimetálicos y lixiviación
+- Presupuesto y variaciones PVE
+- Mantenimiento y árbol de valor
+- Liquidación de concentrados y NSR
+- Rentabilidad, equilibrio e indicadores
+
+</div>
+
+## Sesión 07: Concentrados y NSR
 <!-- _class: fixedTitle -->
 
 <div class="div">
 
-
 <!-- _class: trans -->
 <!-- _paginate: false -->
 <!-- _footer: '' -->
-
-Concentrados y NSR
-
 
 </div>
 
@@ -2432,7 +2779,6 @@ Concentrados y NSR
 
 ###### Al finalizar: 30 minutos de receso y 60 minutos de caso.
 
-
 </div>
 
 ## De mineral a ingreso comercial
@@ -2445,7 +2791,6 @@ El valor del concentrado depende de su masa seca, ley, contenido metálico, paga
 
 Una liquidación completa también puede incluir humedad, mermas, flete, penalidades, créditos de otros metales y condiciones de fijación de precio.
 
-
 </div>
 
 ## Masa húmeda y masa seca
@@ -2453,11 +2798,9 @@ Una liquidación completa también puede incluir humedad, mermas, flete, penalid
 
 <div class="div">
 
-
 **Masa seca** = masa húmeda × (1 − fracción de humedad)
 
 La ley comercial se debe aplicar sobre la base definida en el contrato. Los cargos por tonelada de concentrado deben utilizar la masa que especifique el acuerdo.
-
 
 </div>
 
@@ -2465,7 +2808,6 @@ La ley comercial se debe aplicar sobre la base definida en el contrato. Los carg
 <!-- _class: fixedTitle -->
 
 <div class="div">
-
 
 1. Registrar masa húmeda y porcentaje de humedad.
 2. Calcular **masa seca = masa húmeda × (1 − humedad)**.
@@ -2476,7 +2818,6 @@ En el caso 07 se parte directamente de mineral seco.
 
 <!-- Explique que el agua agrega masa física pero no contenido de cobre. La ley y el peso usados en el cálculo deben compartir base seca o la base pactada. En el taller se parte de una tonelada de mineral seco y no se dispone de humedad del concentrado, por lo cual no se añade un descuento de humedad ficticio. Si se recibiera un peso húmedo, haría falta la humedad medida antes de calcular masa seca. Pregunte en qué documento se registra cada dato. -->
 
-
 </div>
 
 ## Contenido de metal
@@ -2484,13 +2825,11 @@ En el caso 07 se parte directamente de mineral seco.
 
 <div class="div">
 
-
 **Metal contenido** = masa seca de concentrado × ley del metal
 
 Si la masa está en toneladas y la ley como proporción, el resultado es toneladas de metal.
 
 **1 t métrica = 2.204,6226 lb** aproximadamente.
-
 
 </div>
 
@@ -2498,7 +2837,6 @@ Si la masa está en toneladas y la ley como proporción, el resultado es tonelad
 <!-- _class: fixedTitle -->
 
 <div class="div">
-
 
 **Una tonelada de mineral seco · parámetros de estudio**
 
@@ -2512,7 +2850,6 @@ Las tres cantidades miden objetos físicos diferentes.
 
 <!-- En la hoja 07 estas son las tres primeras filas resueltas, C18 a C20. Deténgase en las unidades: tonelada de mineral, tonelada de cobre y tonelada de concentrado no son equivalentes. Se divide el cobre recuperado por la ley del concentrado expresada como proporción, bajo el balance simple del ejercicio. La ley de 0,34 por ciento y la recuperación de 88,7 por ciento provienen de un estudio técnico histórico; no son un contrato ni valores actuales. -->
 
-
 </div>
 
 ## Metal pagable
@@ -2520,13 +2857,11 @@ Las tres cantidades miden objetos físicos diferentes.
 
 <div class="div">
 
-
 En un modelo porcentual sencillo:
 
 **Metal pagable** = metal entregado × pagabilidad
 
 Los contratos pueden usar deducciones mínimas, escalas u otras reglas. El porcentaje de este taller es un supuesto para aplicar los parámetros del estudio.
-
 
 </div>
 
@@ -2534,7 +2869,6 @@ Los contratos pueden usar deducciones mínimas, escalas u otras reglas. El porce
 <!-- _class: fixedTitle -->
 
 <div class="div">
-
 
 | Etapa | Qué cambia |
 |---|---|
@@ -2548,7 +2882,6 @@ La hoja aplica merma y pagabilidad en ese orden.
 
 <!-- Con una tonelada de mineral como base, pregunte dónde ocurre cada reducción: recuperación en planta, merma en transporte y pagabilidad al liquidar. En el modelo del caso, la merma se aplica proporcionalmente a masa y metal, y luego se usa una pagabilidad del 96 por ciento; las reglas reales dependen del contrato. No llame pagabilidad a la recuperación metalúrgica ni al cociente de ventas sobre producción. Los equipos completarán las filas posteriores al ejemplo guiado. -->
 
-
 </div>
 
 ## Cargos de tratamiento y refinación
@@ -2556,14 +2889,12 @@ La hoja aplica merma y pagabilidad en ese orden.
 
 <div class="div">
 
-
 | Cargo | Base del modelo del taller |
 |---|---|
 | TC, tratamiento | US\$ por t seca de concentrado entregado |
 | RC, refinación | US\$ por lb de Cu pagable |
 
 Las bases y condiciones exactas dependen del contrato. Evite agregar un cargo total que ya incluya TC o RC.
-
 
 </div>
 
@@ -2583,7 +2914,6 @@ La conversión de toneladas de Cu a libras se hace antes de aplicar el RC. Cada 
 
 <!-- Señale que TC y RC son parámetros del estudio empleados como supuestos didácticos, no una cotización contractual vigente. Conecte la masa seca entregada con TC y el cobre pagable en libras con RC. Según el taller, la merma afecta tanto masa como metal y la refinación se cobra sobre libras pagables; los contratos pueden usar otras reglas. Pregunte qué ocurriría si se multiplicara el TC por toneladas de mineral en vez de concentrado. -->
 
-
 </div>
 
 ## NSR por tonelada de mineral
@@ -2591,13 +2921,11 @@ La conversión de toneladas de Cu a libras se hace antes de aplicar el RC. Cada 
 
 <div class="div">
 
-
 En el modelo parcial del taller:
 
 **NSR** = (valor del Cu pagable − TC − RC) / t de mineral seco
 
 El resultado **no incluye** flete, penalidades ni créditos por subproductos. Una liquidación completa requiere incluir lo aplicable una sola vez.
-
 
 </div>
 
@@ -2619,14 +2947,12 @@ Antes de agregar un cargo total, comprobar que no incluya ya TC o RC.
 
 <!-- Dibuje un puente conceptual desde valor del cobre pagable hasta el valor neto parcial y divídalo por mineral de alimentación. Si se agregara el cargo combinado de comercialización del mismo estudio sin revisar su composición, podría duplicarse tratamiento o refinación ya restados por separado. La hoja deja fuera flete, penalidades, humedad y subproductos. Por eso el indicador sirve para aprender el mecanismo y no representa la liquidación completa de un despacho real. -->
 
-
 </div>
 
 ## Ejemplo guiado: una tonelada de mineral
 <!-- _class: fixedTitle -->
 
 <div class="div">
-
 
 Con **0,34 % Cu**, recuperación de **88,7 %** y concentrado de **25,2 % Cu**:
 
@@ -2636,7 +2962,6 @@ Con **0,34 % Cu**, recuperación de **88,7 %** y concentrado de **25,2 % Cu**:
 
 ###### Parámetros históricos del [informe técnico Cerro Verde 2024](https://www.sec.gov/Archives/edgar/data/831259/000083125925000006/a2024trscerroverde-finalxp.pdf); cálculo por tonelada de mineral seco.
 
-
 </div>
 
 ## Merma y pagabilidad en el taller
@@ -2644,11 +2969,9 @@ Con **0,34 % Cu**, recuperación de **88,7 %** y concentrado de **25,2 % Cu**:
 
 <div class="div">
 
-
 El modelo aplica la merma de transporte proporcionalmente a concentrado y Cu antes de calcular el metal pagable.
 
 La pagabilidad se aplica al Cu entregado y el RC a las libras pagables. Estas reglas son **supuestos del ejercicio**, no una liquidación contractual universal.
-
 
 </div>
 
@@ -2656,7 +2979,6 @@ La pagabilidad se aplica al Cu entregado y el RC a las libras pagables. Estas re
 <!-- _class: fixedTitle -->
 
 <div class="div">
-
 
 El caso compara **US\$3,25/lb** y **US\$3,75/lb** con los demás parámetros del modelo constantes.
 
@@ -2666,14 +2988,12 @@ Preguntas para la comparación:
 - ¿Cambian el TC o el RC bajo estas hipótesis?
 - ¿Qué efecto aparece en el NSR por tonelada de mineral?
 
-
 </div>
 
 ## Sensibilidad: qué cambia y qué se congela
 <!-- _class: fixedTitle -->
 
 <div class="div">
-
 
 | Variable del modelo | Escenario A | Escenario B |
 |---|---:|---:|
@@ -2687,7 +3007,6 @@ Los precios son parámetros históricos de estudio, no precios vigentes.
 
 <!-- Explique que el ejercicio congela todas las variables salvo el precio, para aislar su efecto. Por tanto, bajo las reglas del taller el cambio de NSR se explica por el metal pagable multiplicado por la diferencia de precio; los cargos TC y RC permanecen iguales. No anticipe el NSR de las columnas C y D que los equipos deben calcular. El mercado y los contratos reales pueden cambiar simultáneamente otros factores. -->
 
-
 </div>
 
 ## Información para liquidar un envío
@@ -2695,11 +3014,9 @@ Los precios son parámetros históricos de estudio, no precios vigentes.
 
 <div class="div">
 
-
 Reunir contrato, pesos y humedad, leyes y ensayes, período de cotización, reglas de pagabilidad, cargos, penalidades y créditos de otros metales.
 
 Reconciliar **producto producido**, **producto despachado** y **producto liquidado** antes de explicar una diferencia.
-
 
 </div>
 
@@ -2707,7 +3024,6 @@ Reconciliar **producto producido**, **producto despachado** y **producto liquida
 <!-- _class: fixedTitle -->
 
 <div class="div">
-
 
 - Pesos: húmedo, humedad medida y tonelada seca.
 - Calidad: ensayes, penalidades y reglas de intercambio.
@@ -2717,14 +3033,12 @@ Reconciliar **producto producido**, **producto despachado** y **producto liquida
 
 <!-- Pida al grupo que describa qué documentos debería solicitar al área comercial antes de calcular el valor final de un embarque. Una balanza y un ensayo no bastan sin contrato, punto de entrega, periodo de fijación de precio y detalle de cargos. La comparación entre despacho y producción también requiere inventario inicial y final. Esta lista prepara la pregunta cualitativa del caso 07 y evita trasladar sin contexto los parámetros históricos del estudio a una operación real. -->
 
-
 </div>
 
 ## Caso 07: NSR parcial
 <!-- _class: fixedTitle -->
 
 <div class="div">
-
 
 **Archivo:** cuaderno, caso 07 · **Excel:** «07 Concentrados».
 
@@ -2734,29 +3048,79 @@ Reconciliar **producto producido**, **producto despachado** y **producto liquida
 
 > ¿Qué parte de la diferencia proviene del precio en este modelo?
 
+</div>
+
+---
+<!-- _class: last-slide -->
+<!-- _footer: "" -->
+
+###### Muchas gracias
+
+<div class="icons">
+
+- <i class="fa-brands fa-google"></i>
+  - ameresv@gmail.com
+- <i class="fa-brands fa-telegram"></i> 
+  - +51956384450  
+- <i class="fa-brands fa-linkedin"></i> 
+  - Ali Meres
 
 </div>
 
-## Sesión 08
-<!-- _class: fixedTitle -->
+# Costos en plantas minero metalúrgicas
+
+###### Una mirada ejecutiva al negocio minero
+
+<!-- _class: cover -->
+<!-- _paginate: "" -->
+<!-- _footer: Presentacion preparada para TECSUP -->
+
+<style>
+  img[alt~='center'] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
+
+<style scoped>
+section.cover_d footer {
+  font-size: 20pt;
+  left: 50%;
+}
+</style>
+
+Ing. Alí Meres 
+Ingeniero de Minas UNI - CIP 
+Business Analytics Technical Lead @ Astay Systems
+Contacto adicional：[LinkedIn](https://www.linkedin.com/in/ali-ivan-meres-vargas/)- ameresv\@gmail.com
+
+## Agenda a desarrollar
+<!-- _class: agenda_col2 -->
 
 <div class="div">
 
+- Proceso, EEFF , OPEX y CAPEX
+- Centros de costos y costo unitario
+- Chancado y molienda
+- Flotación, polimetálicos y lixiviación
+- Presupuesto y variaciones PVE
+- Mantenimiento y árbol de valor
+- Liquidación de concentrados y NSR
+- Rentabilidad, equilibrio e indicadores
 
+</div>
+
+## Sesión 08: Rentabilidad y puntos de equilibrio
 <!-- _class: trans -->
 <!-- _paginate: false -->
 <!-- _footer: '' -->
 
-Rentabilidad y puntos de equilibrio
-
-
-</div>
 
 ## Sesión 08: ruta de teoría
 <!-- _class: fixedTitle -->
 
 <div class="div">
-
 
 | Tiempo | Desarrollo |
 |---|---|
@@ -2766,7 +3130,6 @@ Rentabilidad y puntos de equilibrio
 
 ###### Al finalizar: 30 minutos de receso y 60 minutos de caso.
 
-
 </div>
 
 ## Del costo a la contribución
@@ -2774,11 +3137,9 @@ Rentabilidad y puntos de equilibrio
 
 <div class="div">
 
-
 **Margen de contribución unitario** = precio unitario neto − costo variable unitario
 
 La contribución disponible ayuda a cubrir costos fijos. Las partidas incluidas en precio neto y costo variable deben definirse para el período y la decisión.
-
 
 </div>
 
@@ -2786,7 +3147,6 @@ La contribución disponible ayuda a cubrir costos fijos. Las partidas incluidas 
 <!-- _class: fixedTitle -->
 
 <div class="div">
-
 
 **Ingreso neto unitario**
 
@@ -2798,7 +3158,6 @@ La selección de costos depende de la decisión y del horizonte evaluado.
 
 <!-- Use el ejemplo de una libra adicional para explicar que no todos los costos cambian con la producción en el corto plazo. El margen relevante requiere incluir cada ingreso y costo incremental una sola vez. Un costo fijo puede variar en otro horizonte o si se supera la capacidad disponible; por eso la clasificación es una hipótesis de trabajo, no una propiedad permanente de la cuenta. El caso 08 explicita una asignación fija/variable solo para practicar. -->
 
-
 </div>
 
 ## Punto de equilibrio en libras
@@ -2806,13 +3165,11 @@ La selección de costos depende de la decisión y del horizonte evaluado.
 
 <div class="div">
 
-
 Con precio y costo variable unitario constantes:
 
 **Libras de equilibrio** = costo fijo / contribución por lb
 
 La contribución debe ser positiva. El modelo del taller supone que ciertos costos de 2024 son fijos o variables y omite otras partidas.
-
 
 </div>
 
@@ -2820,7 +3177,6 @@ La contribución debe ser positiva. El modelo del taller supone que ciertos cost
 <!-- _class: fixedTitle -->
 
 <div class="div">
-
 
 **Hipótesis didáctica:** G&A 2024 se trata como fijo.
 
@@ -2832,7 +3188,6 @@ Se excluyen otros costos, inventarios y subproductos. El resultado es **equilibr
 
 <!-- Ubique en la hoja 08 las filas 14 a 17. La administración de 95,5 millones se usa como fija y mina más molienda de 342,6 millones como variable, aunque la fuente no descompone de ese modo los costos. El costo variable unitario se obtiene dividiendo por las libras base; luego se resta del precio y se divide el costo fijo por la contribución. Son hipótesis para el cálculo: los participantes deben cuestionarlas y completar las filas 34 a 36. -->
 
-
 </div>
 
 ## Evaluar una ley de corte interna
@@ -2840,13 +3195,11 @@ Se excluyen otros costos, inventarios y subproductos. El resultado es **equilibr
 
 <div class="div">
 
-
 Una ley interna parcial puede obtenerse igualando **valor neto parcial por t** y **costos considerados por t**, manteniendo explícitas la recuperación, pagabilidad y deducciones.
 
 El resultado depende del alcance: en el ejercicio se incluyen proceso, G&A, Cu, TC y RC; se omiten mina, flete, penalidades, subproductos y capital.
 
 ###### El modelo no sustituye la ley de corte de reservas ni una evaluación integral de mina.
-
 
 </div>
 
@@ -2854,7 +3207,6 @@ El resultado depende del alcance: en el ejercicio se incluyen proceso, G&A, Cu, 
 <!-- _class: fixedTitle -->
 
 <div class="div">
-
 
 En el modelo de la hoja 08:
 
@@ -2868,7 +3220,6 @@ Mina, flete, penalidades, subproductos y capital quedan fuera.
 
 <!-- Conecte el modelo de ley interna con las reglas de NSR parcial de la sesión 07. La incógnita es la ley de cabeza que hace igual el valor neto parcial por tonelada al costo de proceso y administración utilizado en el ejercicio. La función lineal del taller incorpora recuperación, ley de concentrado, merma, pagabilidad, TC y RC bajo condiciones constantes. No la confunda con una ley de reserva ni con un cálculo que incluya todos los costos de mina y capital. -->
 
-
 </div>
 
 ## Metal equivalente
@@ -2876,11 +3227,9 @@ Mina, flete, penalidades, subproductos y capital quedan fuera.
 
 <div class="div">
 
-
 El metal equivalente expresa el valor de varios metales en unidades de un metal de referencia bajo precios y supuestos definidos.
 
 Para comparar valor comercial, considerar recuperaciones, pagabilidades y cargos de cada metal cuando corresponda. Un equivalente no cambia físicamente el metal producido.
-
 
 </div>
 
@@ -2888,7 +3237,6 @@ Para comparar valor comercial, considerar recuperaciones, pagabilidades y cargos
 <!-- _class: fixedTitle -->
 
 <div class="div">
-
 
 En el indicador del taller:
 
@@ -2898,14 +3246,12 @@ En el indicador del taller:
 
 La fuente, la unidad de producción y los conceptos incluidos deben acompañar cualquier comparación.
 
-
 </div>
 
 ## Cómo afectan los créditos por subproductos
 <!-- _class: fixedTitle -->
 
 <div class="div">
-
 
 **Cash cost neto** = costo antes de créditos − créditos.
 
@@ -2917,14 +3263,12 @@ El crédito puede variar por volumen, precio o reglas comerciales. Una caída de
 
 <!-- Explique que el crédito reduce el numerador del indicador neto, aunque las toneladas o los consumos físicos no hayan cambiado necesariamente. Pregunte qué pasaría si cambia el valor de los subproductos mientras el costo bruto permanece constante. Compare siempre la definición de crédito y denominador divulgados por la empresa. En la hoja 08, el cash cost de Perú y el indicador de sostenimiento son cifras de la compañía con perímetros que requieren conciliación. -->
 
-
 </div>
 
 ## Ejemplo guiado: cash cost de Perú 2024
 <!-- _class: fixedTitle -->
 
 <div class="div">
-
 
 | Concepto | US\$ millones |
 |---|---:|
@@ -2936,14 +3280,12 @@ El crédito puede variar por volumen, precio o reglas comerciales. Una caída de
 
 ###### Fuente: [Hudbay, operación Perú 2024–2025](https://www.sec.gov/Archives/edgar/data/1322422/000106299326001113/exhibit99-2.htm).
 
-
 </div>
 
 ## Ejemplo guiado: recorrer el Excel
 <!-- _class: fixedTitle -->
 
 <div class="div">
-
 
 **Hoja «08 Rentabilidad» · 2024 Perú**
 
@@ -2957,7 +3299,6 @@ La columna de 2025 y los modelos de equilibrio quedan para los equipos.
 
 <!-- Muestre las tres celdas ya resueltas y confirme que tanto el costo como las libras se expresan en millones, de modo que la división devuelve dólares por libra. La referencia de 2024 da aproximadamente 1,18 dólares por libra neta. En el mismo archivo, las columnas de resultados de 2025 están en blanco para que los equipos calculen y analicen; no es necesario proyectar el solucionario en clase. El subtotal operativo consolidado tiene un perímetro distinto al cash cost Perú. -->
 
-
 </div>
 
 ## C1, C2, C3 y AISC
@@ -2965,13 +3306,11 @@ La columna de 2025 y los modelos de equilibrio quedan para los equipos.
 
 <div class="div">
 
-
 - Las denominaciones C1, C2 y C3 requieren revisar la definición del proveedor y sus ajustes.
 - El **sustaining cash cost** publicado por una empresa no debe asumirse idéntico a otro indicador sin conciliación.
 - La guía del **World Gold Council** sobre AISC se desarrolló para la industria del oro y exige revisar alcance y conceptos.
 
 ###### Fuente: [World Gold Council, All-In Costs](https://www.gold.org/about-gold/gold-supply/responsible-gold/all-in-costs).
-
 
 </div>
 
@@ -2979,7 +3318,6 @@ La columna de 2025 y los modelos de equilibrio quedan para los equipos.
 <!-- _class: fixedTitle -->
 
 <div class="div">
-
 
 | Indicador | Revisión necesaria |
 |---|---|
@@ -2994,7 +3332,6 @@ Evite presentar etiquetas semejantes como equivalentes sin evidencia.
 
 <!-- Las denominaciones de costos pueden variar entre compañías, consultoras y commodities. El World Gold Council publica una guía de AISC para oro; ello no autoriza a llamar AISC de cobre a cualquier sustaining cash cost divulgado. Pida buscar en las notas de la empresa los componentes, créditos, gastos corporativos y capital incluidos. Para el caso se compara la cifra publicada con el cash cost neto, sin afirmar que la diferencia corresponda a una sola partida. -->
 
-
 </div>
 
 ## EBITDA, utilidad y caja
@@ -3002,11 +3339,9 @@ Evite presentar etiquetas semejantes como equivalentes sin evidencia.
 
 <div class="div">
 
-
 EBITDA parte de una definición de resultado y de los ajustes divulgados. Un subtotal de resultado operativo más depreciación incluida en costo de ventas puede dejar conceptos fuera.
 
 La caja, además, cambia por impuestos pagados, inversión y capital de trabajo. Verifique siempre la conciliación de la empresa.
-
 
 </div>
 
@@ -3014,7 +3349,6 @@ La caja, además, cambia por impuestos pagados, inversión y capital de trabajo.
 <!-- _class: fixedTitle -->
 
 <div class="div">
-
 
 En los datos consolidados 2025 se reporta una **reversión de deterioro de US\$322,3 millones**.
 
@@ -3026,7 +3360,6 @@ Este dato es consolidado; no se atribuye a una sola planta.
 
 <!-- Señale las filas 11 a 13 de la hoja 08 y mantenga separado el perímetro consolidado de las métricas de Perú. La reversión de deterioro es un componente que puede afectar el resultado operativo; su tratamiento en EBITDA o EBITDA ajustado depende de la definición y conciliación divulgadas. Sumar solo la depreciación contenida en costo de ventas no garantiza cubrir todas las partidas pertinentes. Tampoco convierte el subtotal en efectivo generado ni en flujo de caja libre. -->
 
-
 </div>
 
 ## Sensibilidad y decisiones
@@ -3034,11 +3367,9 @@ Este dato es consolidado; no se atribuye a una sola planta.
 
 <div class="div">
 
-
 Varíe una hipótesis a la vez y documente el alcance: precio, ley, recuperación, costo específico o tonelaje.
 
 Después evalúe escenarios combinados y restricciones operativas. Para decidir, considere los flujos y costos **incrementales** relevantes.
-
 
 </div>
 
@@ -3047,7 +3378,6 @@ Después evalúe escenarios combinados y restricciones operativas. Para decidir,
 
 <div class="div">
 
-
 | Lectura | Base que debe verificarse |
 |---|---|
 | US\$/t | Etapas y toneladas incluidas |
@@ -3055,14 +3385,12 @@ Después evalúe escenarios combinados y restricciones operativas. Para decidir,
 | EBITDA | Entidad, período y ajustes |
 | Flujo de caja | Cobros, pagos, inversión y capital de trabajo |
 
-
 </div>
 
 ## Caso 08: rentabilidad y equilibrio
 <!-- _class: fixedTitle -->
 
 <div class="div">
-
 
 **Archivo:** cuaderno, caso 08 · **Excel:** «08 Rentabilidad».
 
@@ -3072,14 +3400,12 @@ Después evalúe escenarios combinados y restricciones operativas. Para decidir,
 
 > ¿Qué conclusión se puede defender con estos datos y cuál requiere información adicional?
 
-
 </div>
 
 ## Cierre del curso
 <!-- _class: fixedTitle -->
 
 <div class="div">
-
 
 Una recomendación de costos debe dejar claro:
 
@@ -3088,33 +3414,21 @@ Una recomendación de costos debe dejar claro:
 3. Cómo cambian metal, costos y valor bajo las alternativas.
 4. Qué evidencia falta y cómo se verificará el resultado.
 
-
 </div>
 
-## Fuentes y materiales de trabajo
-<!-- _class: fixedTitle -->
+---
+<!-- _class: last-slide -->
+<!-- _footer: "" -->
 
-<div class="div">
+###### Muchas gracias
 
+<div class="icons">
 
-- [Hudbay: estados financieros consolidados 2024–2025](https://www.sec.gov/Archives/edgar/data/1322422/000106299326001113/exhibit99-1.htm) y [discusión de resultados e inversiones](https://www.sec.gov/Archives/edgar/data/1322422/000106299326001113/exhibit99-2.htm).
-- [Southern Copper: Cuajone 2021](https://www.sec.gov/Archives/edgar/data/1001838/000155837022002995/scco-20211231ex961a821f6.pdf) y [Cuajone 2024](https://www.sec.gov/Archives/edgar/data/1001838/000155837025002017/scco-20241231xex96d1.pdf).
-- [Cerro Verde: informe técnico 2024](https://www.sec.gov/Archives/edgar/data/831259/000083125925000006/a2024trscerroverde-finalxp.pdf).
-- Cuaderno de casos y archivo Excel del curso: fuentes específicas y supuestos junto a cada taller.
-
-
-</div>
-
-## Fuentes técnicas y contables
-<!-- _class: fixedTitle -->
-
-<div class="div">
-
-
-- [IFRS Foundation: NIC 2, Inventarios](https://www.ifrs.org/issued-standards/list-of-standards/ias-2-inventories/).
-- [IFRS Foundation: NIC 16, Propiedad, planta y equipo](https://www.ifrs.org/issued-standards/list-of-standards/ias-16-property-plant-and-equipment/).
-- [World Gold Council: guía All-In Costs](https://www.gold.org/about-gold/gold-supply/responsible-gold/all-in-costs).
-- [Buenaventura: informe técnico San Gabriel 2024](https://www.sec.gov/Archives/edgar/data/1013131/000141057825001056/tmb-20241231xex96d2.pdf).
-- Diagramas seleccionados de la presentación de referencia facilitada por el docente.
+- <i class="fa-brands fa-google"></i>
+  - ameresv@gmail.com
+- <i class="fa-brands fa-telegram"></i> 
+  - +51956384450  
+- <i class="fa-brands fa-linkedin"></i> 
+  - Ali Meres
 
 </div>
